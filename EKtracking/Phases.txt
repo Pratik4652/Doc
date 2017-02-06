@@ -1,0 +1,45 @@
+EkTracking Phases:
+
+Phase I:
+-login							
+-realtime gps
+-signup							
+-forgot password
+-offline(logout)
+
+Phase II
+-Offline GPS
+-Location history on map xxxxxxxxxxxxxx
+-user profile
+-change password
+
+Phase III
+-Create team
+-add memebers
+-accept/request rights
+-Remove members xxxxxxxxxxxxx
+-cancle request from admin
+-leave team xxxxxxxxxxxxxxxxxxx
+ 
+Phase IV
+-Team Profile xxxxxxxxxxxx
+-Team Member track in map xxxxxxxxxxxxxx
+
+
+GitLab: https://repo.ekbana.info/users/sign_in
+
+EKTRACKING
+
+URL:
+Backend: https://qa-ektracking.ekbana.info/system/login
+Swagger: https://qa-ektracking.ekbana.info/api/documentation#/
+	 client_secret b0CFKhBWhfQxN3A2YQR15QkamV6ZRlaZe7pbHJL3
+
+UI: https://projects.invisionapp.com/share/BYA2QIB26#/screens/214894041_Login
+
+
+
+
+
+iphone offline time 2017-02-03  16:34:59  sita
+android offline SWIPE time 2017-02-03 14:51:23   PRATIK
