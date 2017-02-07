@@ -1,0 +1,23 @@
+Appium
+
+1.Open source Test Automation Framework for Automation Mobile Software Application.
+
+Three types o mobile software application
+
+A. Native Application: (native apps)
+--live on the device and are accessed through icons on the device home screen.
+--installed thorough an application store (such as google play, apple's app store)
+
+B. Mobile Web Apps:
+--these are not real mobile app.
+--they are web sites stored on a remote server and delivered over the internet 
+  through a web browser.
+
+C.Hybrid Applications:
+--are the native app run on the device 
+-- they have integration with device's file system and  integration with web 
+services.
+
+-----------------------------------------------------------------------------
+2.Appium supports ios and android devices
+--it drives android and IOS apps using WebDriver protocol. 
