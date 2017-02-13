@@ -9,7 +9,7 @@ Phase I:
 
 Phase II
 -Offline GPS
--Location history on map xxxxxxxxxxxxxx
+-Location history on map 
 -user profile
 -change password
 
@@ -17,13 +17,13 @@ Phase III
 -Create team
 -add memebers
 -accept/request rights
--Remove members xxxxxxxxxxxxx
+-Remove members 
 -cancle request from admin
--leave team xxxxxxxxxxxxxxxxxxx
+-leave team 
  
 Phase IV
--Team Profile xxxxxxxxxxxx
--Team Member track in map xxxxxxxxxxxxxx
+-Team Profile 
+-Team Member track in map 
 
 
 GitLab: https://repo.ekbana.info/users/sign_in
