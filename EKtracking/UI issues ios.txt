@@ -1,0 +1,24 @@
+login screen:
+-- font size of forgot password and sign Up and Sign in button is more than that of design
+
+side menu bar:
+-- the sequence of the items is not as per the design.
+-- the space between the uername and Dashboard is more.
+-- the width of the side menu is more than that of the design.
+-- There is My Profile in app but only Profile in design.
+
+My Profile Screen:
+-- at the top left corner there should be side bar button instead there is back button.
+-- the ratio of the profile picture area is less than the design.
+-- Email should be "Email Address" in edit screen.
+
+
+Create Team Screen:
+-- the font size ratio of "Lets make a team" and "please choose team name" is not as per the design.
+
+Join Team Screen:
+-- the join button and the tick mark should light up when the complete code is entered.7
+-- the font size and color of "Enter team code" is not as per the design.
+
+Team map screen:
+-- "Team" is missing after the team name in the title. 

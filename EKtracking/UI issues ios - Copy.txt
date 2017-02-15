@@ -1,0 +1,28 @@
+Login Screen
+--in the copyright message the year should be 2017 not 2016
+
+Map Screen:
+-- the title should be EKTracking not EKTrack
+-- the button on the top left corner is not there in the design.
+
+Side menu bar:
+-- the letters in "logout" should be capital.
+-- the size of the profile picture circle is smaller than than the design.
+-- Its not "MY Profile", it should be "Profile" only.
+
+Create team Screen:
+-- It should be "Lets Make A Team" currently it is "Lets make a team".
+
+Team map Location View Screen:
+-- There is no invite to team button at the bottom right (i.e the circular red button with the + sign)
+
+Team Code Screen:
+-- In the page title "a" should be removed. it should only be "invite in Team".(T in team should also be capital)
+-- The font size of the text "lets build A Team" and the code should be increased.
+
+MY Profile Screen:
+-- The size of the profile picture section (i.e the upper section) is smaller than in the design.
+-- The size of the edit button should be reduced.
+
+Edit Profile Screen:
+-- Phone should be changed to Mobile.
