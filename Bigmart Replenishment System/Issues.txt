@@ -1,0 +1,5 @@
+same name Stores.
+
+add store page stock holding days can be set -ve same in overall ranking.
+
+http://crm.bigmart.com.np:81/replenishment/public/system/home
