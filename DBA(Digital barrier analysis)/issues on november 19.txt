@@ -1,28 +1,15 @@
-1. The settings page is accessable to the genereal user through the URL.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Settings page:
+1. Identtical name issue?
 
 Known issues
-1. Country field will be drop down in Create new project.
-2. Spinner is required in multiple pages while loading.
-3. Message missing when data is empty.
-4. Highlighting of currently active module in the UI is not done.
+1. Country field will be drop down in Create new project. * 65
+2. ###Spinner is required in multiple pages while loading.##
+3. ###Message missing when data is empty.##
+4. ####Highlighting of currently active module in the UI is not done.######
+5. The page partially loads for unauthorized user. manage account page and setting page. * 66
+6. Risk matrix : if the name of the probability and  consequences is too long there is a UI issue * 67
+7. The UI of "Infratek" log position is not correct.
+8. Admin cannot change self role.#######
+
 
 
