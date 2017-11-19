@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Arbeta i hög höjd",
+    "workOperational": [
+  {
+    "title": "Arbeta i hiss (all typ av arbete över 2 m)",
+    "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande föremål"}
+                ]
+  },
+  {
+  "title": "Arbeta på byggnadsställningar (all typ av arbete över 2 m)",
+  "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande föremål"}
+              ]
+  },
+  {
+  "title": "Arbete på stege (all typ av arbete över 2 m)",
+  "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande föremål"}
+              ]
+  },
+  {
+  "title":"Klättring i alla typer av mästare",
+  "incident":[
+                {"title": "Fallskada"},
+                {"title": "Fallande föremål"}
+             ]
+  },
+  {
+  "title":"Arbete på tak",
+  "incident":[
+                {"title": "Fallskada"},
+                {"title": "Fallande föremål"}
+             ]
+
+  }                      
+  
+                        ]
+  },
+  {
+    "title": "Byggarbete",
+    "workOperational": [
+  {
+    "title": "Arbeta i diket",
+    "incident": [
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"},
+                {"title": "Klemskade"},
+                {"title": "Masseutglidning"}
+                ]
+  },
+  {
+  "title": "Shuttering arbete",
+  "incident": [
+                {"title": "Klem- og kuttskade"}
+              ]
+  },
+  {
+  "title": "Coring",
+  "incident": [
+                {"title": "Strømgjennomgang eller kortslutning"},
+                {"title": "Klemskade, kuttskader, m.m. som følge av borring"}
+              ]
+  },
+  {
+  "title":"Murverk",
+  "incident":[
+                {"title": "Etsing"}                
+             ]
+  },
+  {
+  "title":"Pigging",
+  "incident":[
+                {"title": "Strømgjennomgang eller kortslutning"},
+                {"title": "Støy og vibrasjonsskader"},
+                {"title": "Øyeskader"}
+             ]
+
+  },
+  {
+  "title":"Användning av byggmaskiner, inklusive grävmaskiner och andra tunga maskiner",
+  "incident":[
+                {"title": "Klemskade"},
+                {"title": "Påkjørsel"},
+                {"title": "Følgeskader som følge av gravearbeider"}
+             ]
+
+  },
+    {
+  "title":"Blästring",
+  "incident":[
+                {"title": "Skade på personell/materiell"}
+             ]
+
+  },
+    {
+  "title":"Grävning med grävmaskin nära kablar / installationer på grund av",
+  "incident":[
+               {"title": "Strømgjennomgang eller kortslutning"}
+             ]
+
+  },
+    {
+  "title":"Crawling near calbes / installations due",
+  "incident":[
+               {"title": "Strømgjennomgang eller kortslutning"}
+             ]
+
+  },
+    {
+  "title":"Tipping off massa",
+  "incident":[
+                {"title": "Masse over personer eller materiell"}
+             ]
+
+  },
+    {
+  "title":"Användning av kompressor och annan tryckluftsutrustning",
+  "incident":[
+      
+                {"title": "Slagskader, øyeskader, etc. som følge av brudd på slanger e.l."}
+             ]
+
+  },
+    {
+  "title":"Användning av hydraulisk utrustning",
+  "incident":[
+                {"title": "Brudd på hydraulikkslanger etc."}
+             ]
+
+  }
+
+                       ]
+  },
+  {
+    "title": "kablage",
+    "workOperational": [
+  {
+    "title": "Anslutande kablar",
+    "incident": [
+                {"title": "Kuttskade, brannskade, klemskade"}
+                ]
+  },
+  {
+  "title": "kablage",
+  "incident": [
+                {"title": "Klem- eller slagskade"}
+              ]
+  },
+  {
+  "title": "Introduktion av kabel till spänningsrum",
+  "incident": [
+                {"title": "Strømgjennomgang/ kortslutning"}
+              ]
+  },
+  {
+  "title":"Läcka sök oljekabeln",
+  "incident":[
+                {"title": "Fryseskader, Etseskade, etc"}
+             ]
+  },
+  {
+  "title":"Oljeprov oljekabe",
+  "incident":[
+                {"title": "Oljesøl på klær og kropp, samt ytre miljø"}
+             ]
+
+  },
+  {
+  "title":"Skärning av kabel",
+  "incident":[
+                {"title": "Strømgjennomgang eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Lagring av kabeldrummar",
+  "incident":[
+                {"title": "Trommel ruller"}
+             ]
+
+  }                          
+  
+                        ]
+  },
+  {
+    "title": "Kemikalier, brandfarliga ämnen och avfall",
+    "workOperational": [
+  {
+    "title": "Hantering av brandfarliga / explosiva ämnen",
+    "incident": [
+                {"title": "Brann"}
+                ]
+  },
+  {
+  "title": "Hantering (lagring och transport) av farligt avfall",
+  "incident": [
+                {"title": "Brann, forgiftning, etc."}
+              ]
+  },
+  {
+  "title": "Hantering av kemikalier och SF6 gas",
+  "incident": [
+                {"title": "Etseskade, forgiftning, O2-mangel"}
+              ]
+  },
+  {
+  "title":"Hantering av oljor och arbete med oljefylld utrustning",
+  "incident":[
+                {"title": "Oljesøl på kropp, innånding av oljedamp, brann"}
+             ]
+  },
+  {
+  "title":"Hantering av blymateriell",
+  "incident":[
+                {"title": "Blyforgiftning"}
+             ]
+
+  },
+  {
+  "title":"Arbeta med inlägg som är mjuka av creosot",
+  "incident":[
+                {"title": "Allergi, eksem eller annen skade på hud. Kreftfremkallende."}
+             ]
+
+  }
+                        ]
+  },
+  {
+  "title": "Rengöring",
+  "workOperational":[
+  {
+    "title": "Rengör nätverksdrivluckan och stäng av",
+    "incident": [
+                {"title": "Fallskader, kuttskader (også fra sprøytespisser), klemskader"}
+                ]
+  },
+  {
+  "title": "Rengöring av trålare och trålare",
+  "incident": [
+                {"title": "Klemskader, fallskader, kuttskader"}
+              ]
+  }
+                    ]
+
+  }
+  
+]

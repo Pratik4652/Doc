@@ -1,0 +1,19 @@
+[{
+    "title": "kaapelointi",
+    "workOperational": [{
+      "title": "Kaikki työskentelevät kolmannen osapuolen lähellä",
+      "incident": [{
+        "title": "Lyijymyrkytys"
+      }]
+    }]
+  },
+  {
+    "title": "Rakennustyö	",
+    "workOperational": [{
+      "title": "Räjäytystyöt",
+      "incident": [{
+        "title": "palanut"
+      }]
+    }]
+  }
+]

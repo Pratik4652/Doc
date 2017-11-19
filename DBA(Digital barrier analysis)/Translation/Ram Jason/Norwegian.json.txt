@@ -1,0 +1,86 @@
+﻿{
+  "SiteTitle": "Welcome | Digital Barrier Analysis",
+  "Header": {
+    "Languages":{
+      "English":"Engelsk",
+      "Swedish":"svensk",
+      "Norwegian":"norsk",
+      "Finnish":"finsk"
+    },
+    "ManageAccountLink": "Administrer konto"
+  },
+  "SubHeader": {
+    "Dba": "Digital Barrier Analysis",
+    "LrStore": "LR butikk",
+    "ManageAccount": "Administrer konto",
+    "Accountmanage": "Konto Administrer",
+    "Setting": "Innstilling",
+    "Search": "Søk her ..."
+  },
+  "Projects":{
+    "Filters":"filtre",
+    "Clear": "Klar",
+    "ActiveProjects": "Nylige aktive prosjekter",
+    "TotalProjects": "Totalt antall prosjekter",
+    "ProjectCode": "INF-",
+    "ProjectName": "prosjektnavn",
+    "Country": "Land",
+    "SiteName": "Side navn"
+  },
+  "NewProject": {
+    "MainTxt": "Det er ingen prosjekter ennå. Klikk på "Create New" -knappen for å lage ditt første prosjekt.",
+    "CreateNew": "Lag ny",
+    "Empty": "Tømme",
+    "title": "DBA Opprett nytt prosjekt",
+    "ProjectName": "prosjektnavn",
+    "Country": "Land",
+    "SiteName": "Side navn",
+    "SiteLanguage": "Nettstedspråk",
+    "Cancel": "Avbryt",
+    "Create": "Skape",
+  },
+  "account": {
+    "ProjectList": "Prosjektliste",
+    "SearchByProjectName": "Søk etter prosjektnavn",
+    "SearchByName": "Søk etter navn",
+    "Name": "Navn",
+    "Administrator": "Administrator",
+    "InHouse": "In-house",
+    "Field": "Felt",
+    "None": "Ingen",
+    "Save": "Lagre"
+  },
+  "Setting": {
+    "SideMenu": {
+      "Home": "Hjem",
+      "Workshop": "Verksted",
+      "Record": "Opprett / oppdater rekord",
+      "Results": "resultater",
+      "Summary": "Sammendrag",
+    },
+    "DefinedList": "PreDefined List",
+    "WorkType": "Arbeidstype",
+    "WorkOperation": "Arbeidsoperasjon",
+    "PotentialIncident": "Potensiell hendelse",
+    "ConsequenceType": "Konsekvenstype",
+    "Edit": "Redigere",
+    "Note": "Merk",
+    "NoteInfo": "Disse forhåndsdefinerte lister for arbeidstype, arbeidsoperasjon og potensiell hendelse skal fastsettes og avtalt i verkstedet. listen bør inneholde alle kategorier mellom det opplastede verket og disse lister, opplastingen vil ikke lykkes, og administratoren må løse problemet før du laster opp regnearket på nytt.",
+    "RiskMatrix": "Risiko Matrix",
+    "IncreasingSeverity": "Økende alvorlighetsgrad",    
+    "Catastrophi": "Catastrophi",
+    "RedColorNote": "Ikke akseptabelt - oppgaven kan ikke gjøres uten videre tiltak.",
+    "OrangeColorNote": "ALARP - Flere tiltak må vurderes før oppgaven er fullført. Skal se på muligheten for "globale" tiltak.",
+    "YellowColorNote": "Tolerabel - Oppgaven kan fullføres, men bør vurdere flere tiltak for å redusere risikoen ytterligere.",
+    "GreenColorNote": "Akseptabelt - Ikke behov for ytterligere tiltak."    
+  },
+  "WorkType": {
+    "MainTxt": "DBA Innstillinger - Arbeidstype",
+    "WorkType": "Arbeidstype",
+    "Add": "Legg til",
+    "SN": "S.No",
+    "Title": "Tittel",
+    "Action": "Handling"
+  }
+  
+}

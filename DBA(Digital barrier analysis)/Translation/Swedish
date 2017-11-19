@@ -1,0 +1,19 @@
+[{
+    "title": "kablage",
+    "workOperational": [{
+      "title": "Allt arbete nära tredje part",
+      "incident": [{
+        "title": "Blyförgiftning"
+      }]
+    }]
+  },
+  {
+    "title": "Byggarbete",
+    "workOperational": [{
+      "title": "Blästring",
+      "incident": [{
+        "title": "bränd"
+      }]
+    }]
+  }
+]

@@ -1,0 +1,19 @@
+[{
+    "title": "kabling",
+    "workOperational": [{
+      "title": "Alt arbeid i nærheten av tredjepart",
+      "incident": [{
+        "title": "Blyforgiftning"
+      }]
+    }]
+  },
+    {
+    "title": "Byggearbeid",
+    "workOperational": [{
+      "title": "sprengning",
+      "incident": [{
+        "title": "brent"
+      }]
+    }]
+  }
+]

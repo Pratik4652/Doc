@@ -1,0 +1,94 @@
+﻿{
+	"SiteTitle": "Welcome | Digital Barrier Analysis",
+	"Header": {
+		"Languages": {
+			"English": "English",
+			"Swedish": "Swedish",
+			"Norwegian": "Norwegian",
+			"Finnish": "Finnish"
+		},
+		"ManageAccountLink": "Manage Account"
+	},
+	"SubHeader": {
+		"Dba": "Digital Barrier Analysis",
+		"LrStore": "LR Store",
+		"ManageAccount": "Manage Account",
+		"Accountmanage": "Account Manage",
+		"Setting": "Setting",
+		"Search": "Search here..."
+	},
+	"Projects": {
+		"Filters": "Filters",
+		"Clear": "Clear",
+		"ActiveProjects": "Recent Active Projects",
+		"TotalProjects": "Total Projects",
+		"ProjectCode": "INF-",
+		"ProjectName": "Project Name",
+		"Country": "Country",
+		"SiteName": "Sitename"
+	},
+	"NewProject": {
+		"MainTxt": "There are no projects yet. Click on 'Create New' button to create your first project.",
+		"CreateNew": "Create New",
+		"Empty": "Empty",
+		"title": "DBA Create New Project",
+		"ProjectName": "Project Name",
+		"Country": "Country",
+		"SiteName": "Site Name",
+		"SiteLanguage": "Site Language",
+		"Cancel": "Cancel",
+		"Create": "Create"
+	},
+	"account": {
+		"ProjectList": "Project List",
+		"SearchByProjectName": "Search By Project Name",
+		"SearchByName": "Search By Name",
+		"Name": "Name",
+		"Administrator": "Administrator",
+		"InHouse": "In-house",
+		"Field": "Field",
+		"None": "None",
+		"Save": "Save"
+	},
+	"Setting": {
+		"SideMenu": {
+			"Home": "Home",
+			"Workshop": "Workshop",
+			"Record": "Create/Update Record",
+			"Results": "Results",
+			"Summary": "Summary"
+		},
+		"DefinedList": "Pre-DefinedList",
+		"WorkType": "Work Type",
+		"WorkOperation": "Work Operation",
+		"PotentialIncident": "Potential Incident",
+		"ConsequenceType": "Consequence Type",
+		"Edit": "Edit",
+		"Note": "These pre-defined lists for work type, work operation and potential incident should be fixed and agreed upon in the workshop. the list should contain all categories between the uploaded worksheel and these lists, the upload will not be successful and the administrator will need to resolve the issue before uploading the worksheet again.",
+		"RiskMatrix": "Risk Matrix",
+		"IncreasingSeverity": "Increasing Severity",
+		"VeryLow": "Very Low",
+		"Low": "Low",
+		"Medium": "Medium",
+		"High": "High",
+		"VeryHigh": "Very High",
+		"Safe": "Safe",
+		"SlightDanger": "Slight Danger",
+		"Dangerous": "Dangerous",
+		"Critical": "Critical",
+		"Catastrophi": "Catastrophi",
+		"RedColorNote": "Not acceptable - the task can not be done without further action.",
+		"OrangeColorNote": "ALARP - Several measures must be considered before completing the task. Should look at the possibility of “global” measures.",
+		"YellowColorNote": "Tolerable - The task can be completed, but should consider several measures to further reduce the risk.",
+		"GreenColorNote": "Acceptable - No need for further action."
+	},
+	"WorkType": {
+		"MainTxt": "DBA Settings - Work Type",
+		"WorkType": "Work Type",
+		"Add": "Add",
+		"SN": "S.No",
+		"Title": "Title",
+		"Action": "Action"
+	}
+
+}

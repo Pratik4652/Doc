@@ -1,0 +1,85 @@
+﻿{
+	"SiteTitle": "Welcome | Digital Barrier Analysis",
+	"Header": {
+		"Languages": {
+			"English": "engelsk",
+			"Swedish": "svenska",
+			"Norwegian": "norsk",
+			"Finnish": "finsk"
+		},
+		"ManageAccountLink": "Hantera konto"
+	},
+	"SubHeader": {
+		"Dba": "Digital Barrier Analysis",
+		"LrStore": "LR Lagra",
+		"ManageAccount": "Hantera konto",
+		"Accountmanage": "Konto Hantera",
+		"Setting": "Miljö",
+		"Search": "Sök här..."
+	},
+	"Projects": {
+		"Filters": "filter",
+		"Clear": "Klar",
+		"ActiveProjects": "Senaste Aktiva Projekt",
+		"TotalProjects": "Totalt antal projekt",
+		"ProjectCode": "INF-",
+		"ProjectName": "Projektnamn",
+		"Country": "Land",
+		"SiteName": "Sidnamn"
+	},
+	"NewProject": {
+		"MainTxt": "Det finns inga projekt ännu. Klicka på Skapa ny -knappen för att skapa ditt första projekt.",
+		"CreateNew": "Skapa ny",
+		"Empty": "Tömma",
+		"title": "DBA Skapa nytt projekt",
+		"ProjectName": "Projektnamn",
+		"Country": "Land",
+		"SiteName": "Sidnamn",
+		"SiteLanguage": "Webbspråk",
+		"Cancel": "Annullera",
+		"Create": "Skapa"
+	},
+	"account": {
+		"ProjectList": "Projektlista",
+		"SearchByProjectName": "Sök efter projektnamn",
+		"SearchByName": "Sök efter namn",
+		"Name": "namn",
+		"Administrator": "Administratör",
+		"InHouse": "In-house",
+		"Field": "Fält",
+		"None": "Ingen",
+		"Save": "Spara"
+	},
+	"Setting": {
+		"SideMenu": {
+			"Home": "Hem",
+			"Workshop": "Verkstad",
+			"Record": "Skapa / uppdatera posten",
+			"Results": "Resultat",
+			"Summary": "Sammanfattning"
+		},
+		"DefinedList": "Fördefinierad lista",
+		"WorkType": "Arbetstyp",
+		"WorkOperation": "Arbetsdrift",
+		"PotentialIncident": "Potentiell händelse",
+		"ConsequenceType": "Konsekvenstyp",
+		"Edit": "Redigera",
+		"Note": "Note",
+		"NoteInfo": "Dessa fördefinierade listor för arbetstyp, arbetsdrift och potentiell incident bör fastställas och avtalas i verkstaden. listan ska innehålla alla kategorier mellan det uppladdade arbetshjulet och dessa listor kommer uppladdningen inte att lyckas och administratören måste lösa problemet innan du laddar upp kalkylbladet igen.",
+		"RiskMatrix": "Riskmatris",
+		"IncreasingSeverity": "Ökande allvar",
+		"RedColorNote": "Ej acceptabelt - uppgiften kan inte göras utan ytterligare åtgärder.",
+		"OrangeColorNote": "ALARP - Flera åtgärder måste övervägas innan du fullgör uppgiften. Ska se på möjligheten till globala åtgärder.",
+		"YellowColorNote": "Tolerabel - Uppgiften kan slutföras, men bör överväga flera åtgärder för att ytterligare minska risken.",
+		"GreenColorNote": "Acceptabelt - Inget behov av ytterligare åtgärder."
+	},
+	"WorkType": {
+		"MainTxt": "DBA Inställningar - Arbetstyp",
+		"WorkType": "Arbetstyp",
+		"Add": "Lägg till",
+		"SN": "S.No",
+		"Title": "Titel",
+		"Action": "Handling"
+	}
+
+}

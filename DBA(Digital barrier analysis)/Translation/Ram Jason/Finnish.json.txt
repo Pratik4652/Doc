@@ -1,0 +1,85 @@
+﻿{
+	"SiteTitle": "Welcome | Digital Barrier Analysis",
+	"Header": {
+		"Languages": {
+			"English": "Englanti",
+			"Swedish": "Ruotsin kieli",
+			"Norwegian": "Norjan kieli",
+			"Finnish": "Suomalainen"
+		},
+		"ManageAccountLink": "Hallitse tiliä"
+	},
+	"SubHeader": {
+		"Dba": "Digital Barrier Analysis",
+		"LrStore": "LR myymälä",
+		"ManageAccount": "Hallitse tiliä",
+		"Accountmanage": "Tilin hallinta",
+		"Setting": "asetus",
+		"Search": "Etsi täältä..."
+	},
+	"Projects": {
+		"Filters": "Suodattimet",
+		"Clear": "Asia selvä",
+		"ActiveProjects": "Viimeaikaiset aktiiviset projektit",
+		"TotalProjects": "Yhteensä hankkeita",
+		"ProjectCode": "INF-",
+		"ProjectName": "projektin nimi",
+		"Country": "Maa",
+		"SiteName": "Sivuston nimi"
+	},
+	"NewProject": {
+		"MainTxt": "Ei vielä ole hankkeita. Luo ensimmäinen projekti napsauttamalla Luo uusi -painiketta.",
+		"CreateNew": "Luo uusi",
+		"Empty": "Tyhjä",
+		"title": "DBA Luo uusi projekti",
+		"ProjectName": "projektin nimi",
+		"Country": "Maa",
+		"SiteName": "Sivuston nimi",
+		"SiteLanguage": "Sivuston kieli",
+		"Cancel": "Peruuttaa",
+		"Create": "Luoda"
+	},
+	"account": {
+		"ProjectList": "Hankeluettelo",
+		"SearchByProjectName": "Haku hankkeen nimen mukaan",
+		"SearchByName": "Etsi nimellä",
+		"Name": "Nimi",
+		"Administrator": "Järjestelmänvalvoja",
+		"InHouse": "Sisäinen",
+		"Field": "Ala",
+		"None": "Ei mitään",
+		"Save": "Tallentaa"
+	},
+	"Setting": {
+		"SideMenu": {
+			"Home": "Koti",
+			"Workshop": "työpaja",
+			"Record": "Luo / päivitä tietue",
+			"Results": "tulokset",
+			"Summary": "Yhteenveto"
+		},
+		"DefinedList": "Esiasetettu luettelo",
+		"WorkType": "Työtyyppi",
+		"WorkOperation": "Työtoiminta",
+		"PotentialIncident": "Mahdollinen tapahtuma",
+		"ConsequenceType": "Seuraamustyyppi",
+		"Edit": "Muokata",
+		"Note": "Huomautus",
+		"Noteinfo": "Nämä ennalta määritetyt työtyyppien, työtapojen ja mahdollisten tapahtumien luettelot olisi vahvistettava ja niistä olisi sovittava 			    työpaja. luettelon pitäisi sisältää kaikki luokat, jotka ovat ladatun tiedostokohteen ja näiden luetteloiden välillä, lataus ei onnistu ja 			    järjestelmänvalvojan on ratkaistava ongelma ennen laskentataulukon lähettämistä uudelleen.",
+		"RiskMatrix": "Riski-matriisi",
+		"IncreasingSeverity": "Lisääntyvä vakavuus",
+		"RedColorNote": "Ei hyväksyttävää - tehtävää ei voida tehdä ilman lisätoimia.",
+		"OrangeColorNote": "ALARP - Useita toimenpiteitä on otettava huomioon ennen tehtävän suorittamista. Pitäisi tarkastella mahdollisuutta 			           maailmanlaajuisiin'toimenpiteisiin.",
+		"YellowColorNote": "Suojeltava - Tehtävä voidaan suorittaa, mutta siinä on otettava huomioon useita toimenpiteitä riskin vähentämiseksi edelleen.",
+		"GreenColorNote": "Hyväksyttävä - ei tarvita lisätoimia."
+	},
+	"WorkType": {
+		"MainTxt": "DBA-asetukset - Työtyyppi",
+		"WorkType": "Työtyyppi",
+		"Add": "Lisätä",
+		"SN": "S.No",
+		"Title": "otsikko",
+		"Action": "Toiminta"
+	}
+
+}

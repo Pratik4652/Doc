@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Työskentele korkealla korkeudella",
+    "workOperational": [
+  {
+    "title": "Työskentely hissillä (kaikentyyppinen työ yli 2 m)",
+    "incident": [
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Falling esine"}
+                ]
+  },
+  {
+  "title": "Työskentely telineillä (kaikentyyppiset työt yli 2 metriä)",
+  "incident": [
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Falling esine"}
+              ]
+  },
+  {
+  "title": "Tikkaiden työtä (kaikentyyppinen työ yli 2 m)",
+  "incident": [
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Falling esine"}
+              ]
+  },
+  {
+  "title":"Kiipeily kaikentyyppisissä päälliköissä",
+  "incident":[
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Falling esine"}
+             ]
+  },
+  {
+  "title":"Kattotöitä",
+  "incident":[
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Falling esine"}
+             ]
+
+  }                      
+  
+                        ]
+  },
+  {
+    "title": "Rakennustyö",
+    "workOperational": [
+  {
+    "title": "köskentel  e ojaan",
+    "incident": [
+                {"title": "Falling esine"},
+                {"title": "Klemskade"},
+                {"title": "Syksyn loukkaantuminen"},
+                {"title": "Masseutglidning"}
+                ]
+  },
+  {
+  "title": "Sulkemistoiminta",
+  "incident": [
+                {"title": "Kiinnitys ja leikkaukset"}
+              ]
+  },
+  {
+  "title": "Coring",
+  "incident": [
+                {"title": "Tehonläpäisy tai oikosulku"},
+                {"title": "Polven vammoja, leikkauksia ym. Porauksen seurauksena"}
+              ]
+  },
+  {
+  "title":"muuraus",
+  "incident":[
+                {"title": "Etsing"}                
+             ]
+  },
+  {
+  "title":"Pigging",
+  "incident":[
+                {"title": "Tehonläpäisy tai oikosulku"},
+                {"title": "Melu ja tärinävauriot"},
+                {"title": "Øyeskader"}
+             ]
+
+  },
+  {
+  "title":"Rakennuskoneiden käyttö, mukaan lukien kaivinkoneet ja muut koneet",
+  "incident":[
+                {"title": "Klemskade"},
+                {"title": "Påkjørsel"},
+                {"title": "Kaatopaikan aiheuttamat vahingot"}
+             ]
+
+  },
+    {
+  "title":"Räjäytystyöt",
+  "incident":[
+                {"title": "Henkilöstön / materiaalin vahingoittuminen"}
+             ]
+
+  },
+    {
+  "title":"Kaivu kaivukoneella kaapeleiden / asennusten takia",
+  "incident":[
+               {"title": "Tehonläpäisy tai oikosulku"}
+             ]
+
+  },
+    {
+  "title":"Kelaaminen lähellä kalbet / asennuksia",
+  "incident":[
+               {"title": "Tehonläpäisy tai oikosulku"}
+             ]
+
+  },
+    {
+  "title":"Täytetään massa",
+  "incident":[
+                {"title": "Paljon ihmisiä tai materiaalia"}
+             ]
+
+  },
+    {
+  "title":"Kompressorin ja muun paineilmalaitteiston käyttö",
+  "incident":[
+      
+                {"title": "Loukkaantumisvahingot, silmävammat jne. Letkujen ja vastaavien rikkoutumisesta johtuen."}
+             ]
+
+  },
+    {
+  "title":"Hydraulisten laitteiden käyttö",
+  "incident":[
+                {"title": "Hydrauliletkujen rikkoutuminen jne."}
+             ]
+
+  }
+
+                       ]
+  },
+  {
+    "title": "kaapelointia",
+    "workOperational": [
+  {
+    "title": "Liittäminen kaapeleihin",
+    "incident": [
+                {"title": "Leikkaavaurio, tulipalovauriot, murskatauti"}
+                ]
+  },
+  {
+  "title": "kaapelointia",
+  "incident": [
+                {"title": "Kiinnitys tai iskun vaurioituminen"}
+              ]
+  },
+  {
+  "title": "Kaapelin käyttöönotto jännitetiloihin",
+  "incident": [
+                {"title": "Tehonläpäisy / oikosulku"}
+              ]
+  },
+  {
+  "title":"Vuodon etsintä öljykaapelilla",
+  "incident":[
+                {"title": "Jäätymisvauriot, Etseskade jne"}
+             ]
+  },
+  {
+  "title":"Öljynäytteet öljykaapelilla",
+  "incident":[
+                {"title": "Öljyvuoto vaatteille ja vartaloille sekä ulkoiselle ympäristölle"}
+             ]
+
+  },
+  {
+  "title":"Kaapelin leikkaaminen",
+  "incident":[
+                {"title": "ehonläpäisy tai oikosulku"}
+             ]
+
+  },
+  {
+  "title":"Kaapelirummien varastointi",
+  "incident":[
+                {"title": "Rummut"}
+             ]
+
+  }                          
+  
+                        ]
+  },
+  {
+    "title": "Kemikaalit, palavat aineet ja jätteet",
+    "workOperational": [
+  {
+    "title": "Syttyvien / räjähtävien esineiden käsittely",
+    "incident": [
+                {"title": "Brann"}
+                ]
+  },
+  {
+  "title": "Vaarallisten jätteiden käsittely (varastointi ja kuljetus)",
+  "incident": [
+                {"title": "Tulipalo, myrkytys jne."}
+              ]
+  },
+  {
+  "title": "Kemikaalien käsittely ja SF6-kaasu",
+  "incident": [
+                {"title": "Ekseeman vamma, myrkytys, O2-puutos"}
+              ]
+  },
+  {
+  "title":"Öljyjen käsittely ja öljyllä täytettyjen laitteiden käsittely",
+  "incident":[
+                {"title": "Öljy vuotaa kehoon, öljyhöyryn hengittäminen, tulipalo"}
+             ]
+  },
+  {
+  "title":"Lyijymeterian käsittely",
+  "incident":[
+                {"title": "Lyijymyrkytys"}
+             ]
+
+  },
+  {
+  "title":"Työskentele kreosootilla pehmeillä pylväillä",
+  "incident":[
+                {"title": "Allergia, ekseema tai muu ihovaurio. Kreftfremkallende."}
+             ]
+
+  }
+                        ]
+  },
+  {
+  "title": "puhdistus",
+  "workOperational":[
+  {
+    "title": "Verkkoaseman luukkujen puhdistaminen ja sammutus",
+    "incident": [
+                {"title": "Syksyn vammat, leikkaukset (myös ruiskun kärjistä), kiristysvauriot"}
+                ]
+  },
+  {
+  "title": "Troolien ja troolarien puhdistaminen",
+  "incident": [
+                {"title": "Vahinko, vamma, leikkaukset"}
+              ]
+  }
+                    ]
+
+  }
+  
+]
