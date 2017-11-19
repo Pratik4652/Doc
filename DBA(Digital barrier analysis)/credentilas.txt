@@ -1,2 +1,6 @@
- admin : qa@ekbana.com/Nepal@9090
- general : rikee14@gmail.com/Rikee@100
+ org admin : qaorg@ekbana.com/Ekbana@9090
+	   : pratikt@ekbana.com/Pratik@100
+	   : sumanr@ekbana.com/
+ general : rikee14@gmail.com/Rikee@1000
+         : ram@ekbana.com/Ram@100
+         : qageneral@ekbana.com/Ekbana@9090

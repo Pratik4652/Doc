@@ -1,0 +1,28 @@
+1. The settings page is accessable to the genereal user through the URL.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Known issues
+1. Country field will be drop down in Create new project.
+2. Spinner is required in multiple pages while loading.
+3. Message missing when data is empty.
+4. Highlighting of currently active module in the UI is not done.
+
+
