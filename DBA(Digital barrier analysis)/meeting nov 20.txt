@@ -1,0 +1,13 @@
+1. Project list page : sorting of project based on latest used.
+
+2. project list filter : Remove or disable clear button when no country is checked. (not sure)
+
+3. manage account : column title should be bold.
+
+3. wrok type list : latest added should appear on top. rest in alphabetical order.
+
+4. color scemes : color schemes in pre defined list setting page.
+
+5. 
+
+ 

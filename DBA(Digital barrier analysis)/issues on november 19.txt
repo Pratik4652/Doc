@@ -10,6 +10,6 @@ Known issues
 6. Risk matrix : if the name of the probability and  consequences is too long there is a UI issue * 67
 7. The UI of "Infratek" log position is not correct.
 8. Admin cannot change self role.#######
-
+9. Manage account page : when editing the role of users if the save button is pressed the top most    project is selected. even thought the changes are saved.
 
 
