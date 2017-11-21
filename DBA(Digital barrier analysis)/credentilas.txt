@@ -1,2 +1,13 @@
- admin : qa@ekbana.com/Nepal@9090
+ admin  : qa@ekbana.com/Nepal@9090
+	: pratikt@ekbana.com/Pratik@100
+	: rikee@ekbana.com/Rikee100@
+	: harris@ekbana.com/H@rris100
+	: ram@ekbana.com/Ram@1000
  general : rikee14@gmail.com/Rikee@100
+         : arya@ekbana.com/Arya@100
+	 : sansa@ekbana.com/Sansa@100
+	 : ramsey@ekbana.com/Ramsey@100
+	 : rob@ekbana.com/
+
+
+$ ng serve --ssl true --ssl-key domain.key --ssl-cert domain.csr
