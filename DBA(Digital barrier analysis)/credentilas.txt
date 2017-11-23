@@ -1,4 +1,4 @@
- admin  : qa@ekbana.com/Nepal@9090
+c admin  : qa@ekbana.com/Nepal@9090
 	: pratikt@ekbana.com/Pratik@100
 	: rikee@ekbana.com/Rikee100@
 	: harris@ekbana.com/H@rris100
@@ -7,7 +7,10 @@
          : arya@ekbana.com/Arya@100
 	 : sansa@ekbana.com/Sansa@100
 	 : ramsey@ekbana.com/Ramsey@100
-	 : rob@ekbana.com/
+	 : rob@ekbana.com/Rob@1000
 
+java -jar swagger-codegen-cli-2.2.3.jar  generate -i dba/swagger.yaml -l typescript-angular2 -o dba/src/app/rest
+
+yarn
 
 $ ng serve --ssl true --ssl-key domain.key --ssl-cert domain.csr
