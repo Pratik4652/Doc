@@ -1,4 +1,5 @@
-c admin  : qa@ekbana.com/Nepal@9090
+Local:
+org admin  : qa@ekbana.com/Nepal@9090
 	: pratikt@ekbana.com/Pratik@100
 	: rikee@ekbana.com/Rikee100@
 	: harris@ekbana.com/H@rris100
@@ -8,6 +9,15 @@ c admin  : qa@ekbana.com/Nepal@9090
 	 : sansa@ekbana.com/Sansa@100
 	 : ramsey@ekbana.com/Ramsey@100
 	 : rob@ekbana.com/Rob@1000
+
+Live:
+Org admin: pratikt@ekbana.com/Pratik@100	
+	 : suman@ekbana.com/
+	 : qaorg@ekbana.com/
+	
+General : qageneral@ekbana.com/
+	: rikee@gmail.com/Rikee@100
+	: ram@ekbana.com/Ram@1000
 
 java -jar swagger-codegen-cli-2.2.3.jar  generate -i dba/swagger.yaml -l typescript-angular2 -o dba/src/app/rest
 
