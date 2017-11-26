@@ -13,9 +13,9 @@ org admin  : qa@ekbana.com/Nepal@9090
 Live:
 Org admin: pratikt@ekbana.com/Pratik@100	
 	 : suman@ekbana.com/
-	 : qaorg@ekbana.com/
+	 : qaorg@ekbana.com/Ekbana@9090
 	
-General : qageneral@ekbana.com/
+General : qageneral@ekbana.com/Ekbana@9090
 	: rikee@gmail.com/Rikee@100
 	: ram@ekbana.com/Ram@1000
 
