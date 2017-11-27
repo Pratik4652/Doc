@@ -1,0 +1,664 @@
+[
+  {
+    "title": "Korkealla työskenteleminen",
+    "workOperational": [
+  {
+    "title": "Työskentely hississä ",
+    "incident": [
+                {"title": "Putoamisvamma"},
+                {"title": "Putoava esine"}
+                ]
+  },
+  {
+  "title": "Työskentely rakennustelineillä",
+  "incident": [
+                {"title": "Putoamisvamma"},
+                {"title": "Putoava esine"}
+              ]
+  },
+  {
+  "title": "Työskentely tikkailla ",
+  "incident": [
+                {"title": "Putoamisvamma"},
+                {"title": "Putoava esine"}
+              ]
+  },
+  {
+  "title":"Kiipeäminen kaikentyyppisiin pylväisiin",
+  "incident":[
+                {"title": "Putoamisvamma"},
+                {"title": "Putoava esine"}
+             ]
+  },
+  {
+  "title":"Kattotyöt",
+  "incident":[
+                {"title": "Putoamisvamma"},
+                {"title": "Putoava esine"}
+             ]
+
+  }                      
+  
+                        ]
+  },
+  {
+    "title": "Rakennustyö",
+    "workOperational": [
+  {
+    "title": "Työskentely ojassa",
+    "incident": [
+                {"title": "Putoava esine"},
+                {"title": "Puristusvamma"},
+                {"title": "Putoamisvamma"},
+                {"title": "Maa massa / seinä / kivet putoavat"}
+                ]
+  },
+  {
+  "title": "Muottilaudoitustyö",
+  "incident": [
+                {"title": "Kiinni tarttuminen ja viiltohaavat"}
+              ]
+  },
+  {
+  "title": "Kairaus",
+  "incident": [
+                {"title": "Sähköisku tai oikosulku"},
+                {"title": "Kiinni tarttuminen ja viiltohaavat"}
+              ]
+  },
+  {
+  "title":"Muuraustyöt",
+  "incident":[
+                {"title": "Syöpyminen"}                
+             ]
+  },
+  {
+  "title":"Purkutyöt moukarilla",
+  "incident":[
+                {"title": "Sähköisku tai oikosulku"},
+                {"title": "Melun ja tärinän aiheuttamat vammat"},
+                {"title": "Silmävammat"}
+             ]
+
+  },
+  {
+  "title":"Raskaiden koneiden käyttö, ml. kaivinkoneet.",
+  "incident":[
+      
+                {"title": "Kiinni tarttuminen ja ruhjoutuminen"},
+                {"title": "Törmääminen tai osuminen ihmisiin"},
+                {"title": "Kaatuminen"},
+                {"title": "Kaivuutyöstä johtuvat välilliset vauriot"}
+             ]
+
+  },
+    {
+  "title":"Räjäytystyöt",
+  "incident":[
+                {"title": "Henkilöstölle aiheutuneet vammat tai materiaalivauriot"}
+             ]
+
+  },
+  {
+  "title":"Kaivinkoneen käyttö maakaapeleiden lähistöllä",
+  "incident":[
+      
+                {"title": "Sähköisku tai oikosulku"}
+             ]
+
+  },
+  {
+  "title":"Kaivaminen lapiolla maakaapeleiden lähistöllä",
+  "incident":[
+      
+                {"title": "Sähköisku tai oikosulku"}
+             ]
+
+  },
+  {
+  "title":"Kuorma-autojen lastien purkaminen",
+  "incident":[
+      
+                {"title": "Henkilöstölle aiheutuneet vammat tai materiaalivauriot"}
+             ]
+
+  },
+  {
+  "title":"Hydrauliikkalaitteiden käyttö",
+  "incident":[
+      
+                {"title": "Letkun puhkeamisesta johtuva henkilövahinko"}
+             ]
+
+  },
+  {
+  "title":"Kompressorin tai muun paineilmaa käyttävän laitteen käyttö",
+  "incident":[
+                {"title": "Letkun puhkeamisesta johtuva henkilövahinko"}
+             ]
+
+  }, 
+  {
+  "title":"Auraus",
+  "incident":[
+      
+                {"title": "Kiinni tarttuminen ja ruhjoutuminen"},
+                {"title": "Sähköisku tai oikosulku"}
+             ]
+
+  }
+
+                       ]
+  },
+  {
+    "title": "Kaapelityö",
+    "workOperational": [
+  {
+    "title": "Kaapelien liittäminen",
+    "incident": [
+                {"title": "Kiinni tarttuminen ja viiltohaavat"}
+                ]
+  },
+  {
+  "title": "Kaapelointi",
+  "incident": [
+                {"title": "Kiinni tarttuminen ja pistohaavat"}
+              ]
+  },
+  {
+  "title": "Kaapelointi muuntamotiloihin",
+  "incident": [
+                {"title": "Sähköisku tai oikosulku"}
+              ]
+  },
+  {
+  "title":"Öljykaapelien vuodonetsintä",
+  "incident":[
+                {"title": "Jäätymisvauriot, syöpyminen"}
+             ]
+  },
+  {
+  "title":"Öljynäytteenotto öljykaapeleista",
+  "incident":[
+                {"title": "Öljyn roiskuminen vartalolle tai vaatteisiin"},
+                {"title": "Öljypäästö ympäristöön"}
+             ]
+
+  },
+  {
+  "title":"Kaapelien katkaiseminen",
+  "incident":[
+                {"title": "Sähköisku tai oikosulku"}
+             ]
+
+  },
+  {
+  "title":"Kaapelikelojen varastointi",
+  "incident":[
+                {"title": "Kiinni tarttuminen tai putoavat esineet"}
+             ]
+
+  }                          
+  
+                        ]
+  },
+
+
+
+
+
+  
+  {
+    "title": "Kemikaalit, palavat aineet ja jätteet",
+    "workOperational": [
+  {
+    "title": "Syttyvien/räjähtävien aineiden käsittely",
+    "incident": [
+                {"title": "Tulipalo"}
+                ]
+  },
+  {
+  "title": "Vaarallisten jätteiden käsittely (mukaan lukien varastointi ja kuljetus)",
+  "incident": [
+                {"title": "Tulipalo, myrkytys"},
+                {"title": "Päästö ympäristöön"}
+              ]
+  },
+  {
+  "title": "Kemikaalien ja SF6-kaasun käsittely",
+  "incident": [
+                {"title": "Syöpyminen, myrkytys, hapenpuute"},
+                {"title": "Päästö ympäristöön"}
+              ]
+  },
+  {
+  "title":"Öljyn käsittely ja työ öljytäytteisten laitteiden parissa",
+  "incident":[
+                {"title": "Öljyn roiskuminen vartalolle tai vaatteisiin, tulipalo"},
+                {"title": "Päästö ympäristöön"}
+             ]
+  },
+  {
+  "title":"Lyijymateriaalin käsittely",
+  "incident":[
+                {"title": "Lyijymyrkytys"}
+             ]
+
+  },
+  {
+  "title":"Työskentely kreosootilla kyllästettyjen pylväiden parissa",
+  "incident":[
+                {"title": "Allergia, ihovauriot, karsinogeenisuus"},
+                {"title": "Päästö ympäristöön"}
+             ]
+
+  },
+  {
+  "title":"Työskentely PCB:tä sisältävän öljyn tai PCB:n mahdollisesti saastuttaman maan parissa",
+  "incident":[
+                {"title": "Päästö ympäristöön"}
+             ]
+
+  }
+                        ]
+  },
+  {
+  "title": "Puhdistus",
+  "workOperational":[
+  {
+    "title": "Asemien/muuntajien puhdistaminen",
+    "incident": [
+                {"title": "Puristumisvamma, putoaminen, viiltohaavat"}
+                ]
+  }
+                    ]
+
+  },
+   {
+  "title": "Lifting operations (no hoist)",
+  "workOperational":[
+  {
+    "title": "Lifting with cranes, crane trucks, fork lift, etc.",
+    "incident": [
+                {"title": "Falling objec"},
+                {"title": "Clamping/pinching"}
+                ]
+  },
+   {
+    "title": "Lifting with the use of helicopters",
+    "incident": [
+                {"title": "Falling objec"},
+                {"title": "Clamping/pinching"}
+                ]
+  },
+  {
+    "title": "Manual lifting",
+    "incident": [
+                {"title": "Clamping/pinching"}
+                ]
+  }
+                    ]
+  },
+   {
+  "title": "Work close to 3rd party",
+  "workOperational":[
+  {
+    "title": "All work close to third parties",
+    "incident": [
+                {"title": "Injuries on third party due to our activities"},
+                {"title": "Injuries on our personnel due to third person activities"}
+                ]
+  },
+  {
+  "title": "Work on/close to roads",
+  "workOperational":[
+  {
+    "title": "All work on or close to roads",
+    "incident": [
+                {"title": "Collision or being hit"},
+                {"title": "Injuries on third party due to our activities"}
+                ]
+  }
+                  ]
+  },
+  {
+  "title": "Use of vehicles",
+  "workOperational":[
+  {
+    "title": "Use of cars",
+    "incident": [
+                {"title": "Collision"},
+                {"title": "Load not secured"}
+                ]
+  },
+  {
+    "title": "Connection and disconnection of trailers",
+    "incident": [
+                {"title": "Clamping/pinching"}
+                ]
+  },
+  {
+    "title": "Use of ATVs and snow scooters",
+    "incident": [
+                {"title": "Tilting or collisions"},
+                {"title": "Collide with/hit people"},
+                {"title": "Vehicle stalled in remote area"}
+                ]
+  },
+  {
+    "title": "Use of cars and machinery",
+    "incident": [
+                {"title": "Leakage of battery acid"}
+                ]
+  },
+  {
+    "title": "Use of boats",
+    "incident": [
+                {"title": "Capsizing, loose load, collision, etc"}
+                ]
+  }
+                    ]
+    },
+
+
+
+
+  {
+  "title": "Storage/workshops",
+  "workOperational":[
+  {
+    "title": "Storage at heigth",
+    "incident": [
+                {"title": "Falling object"}
+                ]
+  },
+  {
+    "title": "Use of pallet move",
+    "incident": [
+                {"title": "Clamping/pinching"}
+                ]
+  },
+  {
+    "title": "Use of forklift and cranes",
+    "incident": [
+                {"title": "Clamping/pinching, falling objects"}
+                ]
+  },
+  {
+    "title": "Use of dangerous tools and equipment",
+    "incident": [
+                {"title": "Clamping/pinching, cuts, eye damages, etc"}
+                ]
+  }
+                    ]
+  },
+
+
+
+   {
+  "title": "Tree felling",
+  "workOperational":[
+  {
+    "title": "Work with tree felling",
+    "incident": [
+                {"title": "Hit or clamping injuries due to trees or line in tension"},
+                {"title": "Cuts"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+   {
+  "title": "Mechanical work",
+  "workOperational":[
+  {
+    "title": "Disassembly of locks or other mechanics",
+    "incident": [
+                {"title": "Cuts"}
+                ]
+  },
+  {
+    "title": "Assemply of platforms, hatches, etc.",
+    "incident": [
+                {"title": "Clamping/pinching, falls, cuts"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+   {
+  "title": "Demolition work",
+  "workOperational":[
+  {
+    "title": "Demolition of bearing constructions",
+    "incident": [
+                {"title": "Clamping/pinching, falls, falling object"}
+                ]
+  },
+  {
+    "title": "Demolition of constructions with dangerous materials (e.g. asbestos)",
+    "incident": [
+                {"title": "Exposure to dangerous materials"}
+                ]
+  },
+  {
+    "title": "Demolition of lines/changes in forces in poles.",
+    "incident": [
+                {"title": "Clamping/pinching, falls"}
+                ]
+  },
+  {
+    "title": "Demolition of lines/changes in forces in poles. ",
+    "incident": [
+                {"title": "Clamping/pinching, falls"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+   {
+  "title": "Use of tools",
+  "workOperational":[
+  {
+    "title": "Use of sharp tools (hand tools)",
+    "incident": [
+                {"title": "Cuts, eye injuries, hits"}
+                ]
+  },
+  {
+    "title": "Use of impact tools",
+    "incident": [
+                {"title": "Impact injuries"}
+                ]
+  },
+  {
+    "title": "Use of vibrating tools",
+    "incident": [
+                {"title": "Vibration damages"}
+                ]
+  },
+  {
+    "title": "Hot work",
+    "incident": [
+                {"title": "Fire"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Site-specific risks",
+  "workOperational":[
+  {
+    "title": "Work above/close to water",
+    "incident": [
+                {"title": "Drowning"}
+                ]
+  },
+  {
+    "title": "Work in confined spaces (culvert, tunnel, etc.)",
+    "incident": [
+                {"title": "Poisoning, suffocation"}
+                ]
+  },
+  {
+    "title": "Work in attics, basements and other private areas",
+    "incident": [
+                {"title": "Fall in stairs, fall through floor, falls, head injuries, etc."}
+                ]
+  },
+  {
+    "title": "Work in rooms with automatic fire extinguishers",
+    "incident": [
+                {"title": "Suffocation"}
+                ]
+  },
+  {
+    "title": "Work on slippery surfaces",
+    "incident": [
+                {"title": "Falls, strains"}
+                ]
+  },
+  {
+    "title": "Work in 'unfriendly' areas/environment",
+    "incident": [
+                {"title": "Violence, threat of violence, harassment"}
+                ]
+  },
+  {
+    "title": "Use of pesticides",
+    "incident": [
+                {"title": "Environmental damage due to wrong use of pesticides"}
+                ]
+  },
+  {
+    "title": "Work in the dark",
+    "incident": [
+                {"title": "Trips or falls"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "General (could be relevant for all work types)",
+  "workOperational":[
+  {
+    "title": "All work types",
+    "incident": [
+                {"title": "Ergonomy, 'wear and tear'"}
+                ]
+  },
+  {
+    "title": "Work that can lead to damages to the eyes",
+    "incident": [
+                {"title": "Eye damages"}
+                ]
+  },
+  {
+    "title": "Work in noisy areas",
+    "incident": [
+                {"title": "Hearing loss, scared animals"}
+                ]
+  },
+  {
+    "title": "Work with electrical appliances, use of flammable material",
+    "incident": [
+                {"title": "Fire"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+   {
+  "title": "Electrical work",
+  "workOperational":[
+  {
+    "title": "Work on disabled system where voltage can come from other source",
+    "incident": [
+                {"title": "Electrocution, short circuit or light arch"}
+                ]
+  },
+  {
+    "title": "Live-line working, low voltage",
+    "incident": [
+                {"title": "Electrocution, short circuit or light arch"}
+                ]
+  },
+  {
+    "title": "Live-line working, high voltage",
+    "incident": [
+                {"title": "Electrocution, short circuit or light arch"}
+                ]
+  },
+  {
+    "title": "Switching/connection of electrical installation",
+    "incident": [
+                {"title": "Electrocution, short circuit or light arch"}
+                ]
+  },
+  {
+    "title": "Cable cutting",
+    "incident": [
+                {"title": "Electrocution, short circuit or light arch"}
+                ]
+  },
+  {
+    "title": "Work close to high voltage cables/lines",
+    "incident": [
+                {"title": "Electrocution, short circuit, light arch or atmospheric discharge"}
+                ]
+  },
+  {
+    "title": "Work on battery banks",
+    "incident": [
+                {"title": "Electrocution or short circuit"},
+                {"title": "Leakage of battery acid or explosion"},
+                {"title": "Leakage of battery acid to environment"}
+                ]
+  }
+                    ]
+  }
+ 
+
+  
+                    ]
+                  }
+                  ]
+  
