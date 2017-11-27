@@ -16,7 +16,7 @@ Org admin: pratikt@ekbana.com/Pratik@100
 	 : qaorg@ekbana.com/Ekbana@9090
 	
 General : qageneral@ekbana.com/Ekbana@9090
-	: rikee@gmail.com/Rikee@100
+	: rikee@gmail.com/Rikee100@
 	: ram@ekbana.com/Ram@1000
 
 java -jar swagger-codegen-cli-2.2.3.jar  generate -i dba/swagger.yaml -l typescript-angular2 -o dba/src/app/rest
