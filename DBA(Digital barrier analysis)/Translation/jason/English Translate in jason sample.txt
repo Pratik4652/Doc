@@ -49,8 +49,8 @@
     "incident": [
                 {"title": "Fall Injury"},
                 {"title": "Falling object"},
-                {"title": "Klemskade"},
-                {"title": "Masseutglidning"}
+                {"title": "Pinching/Clamping"},
+                {"title": "Ground mass/wall/stones collapsing"}
                 ]
   },
   {
@@ -62,74 +62,88 @@
   {
   "title": "Coring",
   "incident": [
-                {"title": "Power throughput or short circuit"},
-                {"title": "Knee injury, cuts, etc. as a result of drilling"}
+                {"title": "Electrocution or short circuit"},
+                {"title": "Clamping and cuts"}
               ]
   },
   {
-  "title":"Masonry",
+  "title":"Masonry work",
   "incident":[
                 {"title": "Etsing"}                
              ]
   },
   {
-  "title":"Pigging",
+  "title":"Demolition hammering",
   "incident":[
-                {"title": "Power throughput or short circuit"},
-                {"title": "Noise and vibration damage"},
-                {"title": "Øyeskader"}
+                {"title": "Electrocution or short circuit"},
+                {"title": "Noise and vibration damages"},
+                {"title": "Eye damages"}
              ]
 
   },
   {
-  "title":"Use of construction machinery, including excavators and other heavy machinery",
+  "title":"Use of heavy machinery, incl. excavators.",
   "incident":[
-                {"title": "Power throughput or short circuit"},
-                {"title": "Påkjørsel"},
-                {"title": "Consequential damages as a result of digging work"}
+      
+                {"title": "Clamping and crushing"},
+                {"title": "Collision or hitting persons"},
+                {"title": "Tilting machine"},
+                {"title": "Consequential damages due to excavation"}
              ]
 
   },
     {
   "title":"Blasting",
   "incident":[
-                {"title": "Damage to personnel / material"}
+                {"title": "Injuries on personnel or material"}
              ]
 
   },
-    {
-  "title":"Digging with excavator near cables / installations due",
-  "incident":[
-               {"title": "Power throughput or short circuit"}
-             ]
-
-  },
-    {
-  "title":"Crawling near calbes / installations due",
-  "incident":[
-               {"title": "Power throughput or short circuit"}
-             ]
-
-  },
-    {
-  "title":"Tipping off mass",
-  "incident":[
-                {"title": "Lots of people or material"}
-             ]
-
-  },
-    {
-  "title":"Use of compressor and other compressed air equipment",
+  {
+  "title":"Use of excavator close to cables in the ground",
   "incident":[
       
-                {"title": "Injury injuries, eye damage, etc. due to breakage of hoses and the like."}
+                {"title": "Electrocution or short circuit"}
              ]
 
   },
-    {
+  {
+  "title":"Hand digging close to cables in the ground",
+  "incident":[
+      
+                {"title": "Electrocution or short circuit"}
+             ]
+
+  },
+  {
+  "title":"Offloading of mass from trucks",
+  "incident":[
+      
+                {"title": "Injuries on personnel or material"}
+             ]
+
+  },
+  {
+  "title":"Use of compressor and other compressed air",
+  "incident":[
+      
+                {"title": "People injury due to hose ruptures"}
+             ]
+
+  },
+  {
   "title":"Use of hydraulic equipment",
   "incident":[
-                {"title": "Breakage of hydraulic hoses etc"}
+                {"title": "People injury due to hose ruptures"}
+             ]
+
+  }, 
+  {
+  "title":"Plowing",
+  "incident":[
+      
+                {"title": "Clamping and crushing"},
+                {"title": "Electrocution or short circuit"}
              ]
 
   }
@@ -137,50 +151,51 @@
                        ]
   },
   {
-    "title": "Cabeling",
+    "title": "Cable work",
     "workOperational": [
   {
-    "title": "Joining cables",
+    "title": "Cable splicing",
     "incident": [
-                {"title": "Cutter injury, fire damage, crush injury"}
+                {"title": "Clamping and cuts"}
                 ]
   },
   {
   "title": "Cabling",
   "incident": [
-                {"title": "Clamping or impact damage"}
+                {"title": "Clamping and punches"}
               ]
   },
   {
-  "title": "Introduction of cable to voltage room",
+  "title": "Cabling into rooms with voltage",
   "incident": [
-                {"title": "Power throughput / short circuit"}
+                {"title": "Electrocution or short circuit"}
               ]
   },
   {
-  "title":"Leak search oil cable",
+  "title":"Leak detection on oil filled cables",
   "incident":[
-                {"title": "Freezing damage, Etseskade, etc"}
+                {"title": "Freezing damages, etching"}
              ]
   },
   {
-  "title":"Oil samples oil cable",
+  "title":"Oil sampling from oil filled cables",
   "incident":[
-                {"title": "Oil spill on clothes and body, as well as external environment"}
+                {"title": "Oil spill on body and clothes"}
+                {"title": "Oil spill to the environment"}
              ]
 
   },
   {
-  "title":"Cutting of cable",
+  "title":"Cutting of cables",
   "incident":[
-                {"title": "Power throughput or short circuit"}
+                {"title": "Electrocution or short circuit"}
              ]
 
   },
   {
   "title":"Storage of cable drums",
   "incident":[
-                {"title": "Drum rolls"}
+                {"title": "Clamping or falling objects"}
              ]
 
   }                          
@@ -191,27 +206,30 @@
     "title": "Chemicals, flammable substances and waste",
     "workOperational": [
   {
-    "title": "Handling of flammable / explosive items",
+    "title": "Handling of flammable/hazardous/explosive substances",
     "incident": [
-                {"title": "Brann"}
+                {"title": "Fire"}
                 ]
   },
   {
-  "title": "Handling (storage and transport) of hazardous waste",
+  "title": "Handling of dangerous waste (incl. storage and transportation)",
   "incident": [
-                {"title": "Fire, poisoning, etc."}
+                {"title": "Fire, poisoning"},
+                {"title": "Discharge to environment"}
               ]
   },
   {
   "title": "Handling of chemicals and SF6 gas",
   "incident": [
-                {"title": "Eczema injury, poisoning, O2 deficiency"}
+                {"title": "Etching, eye damage, burn, poisoning, lack of O2"},
+                {"title": "Discharge to environment"}
               ]
   },
   {
   "title":"Handling of oils, and work with oil-filled equipment",
   "incident":[
-                {"title": "Oil spill on body, inhalation of oil vapor, fire"}
+                {"title": "Oil spill on body, cloths, fire"},
+                {"title": "Discharge to environment"}
              ]
   },
   {
@@ -222,9 +240,17 @@
 
   },
   {
-  "title":"Work with posts that are soft of creosote",
+  "title":"Work on poles that are wet of creosote",
   "incident":[
-                {"title": "Allergy, eczema or other skin damage. Kreftfremkallende"}
+                {"title": "Allergy, skin damages, carcinogenic"},
+                {"title": "Discharge to environment"}
+             ]
+
+  },
+  {
+  "title":"Work with oil with PCB or in ground with possible PCB contamination",
+  "incident":[
+                {"title": "Discharge to environment"}
              ]
 
   }
@@ -234,16 +260,10 @@
   "title": "Cleaning",
   "workOperational":[
   {
-    "title": "Cleaning the network drive hatch and switch off",
+    "title": "Cleaning of stations/transformers",
     "incident": [
-                {"title": "Fall injuries, cuts (also from syringe tips), clamping damage"}
+                {"title": "Clamping/pinching, falls, cuts"}
                 ]
-  },
-  {
-  "title": "Cleaning of trawlers and trawlers",
-  "incident": [
-                {"title": "Damage, injury, cuts"}
-              ]
   }
                     ]
 
