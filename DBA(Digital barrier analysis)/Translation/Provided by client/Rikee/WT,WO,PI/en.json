@@ -41,6 +41,16 @@
   
                         ]
   },
+
+
+
+
+
+
+
+
+
+
   {
     "title": "Construction work",
     "workOperational": [
@@ -150,6 +160,22 @@
 
                        ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "title": "Cable work",
     "workOperational": [
@@ -202,6 +228,18 @@
   
                         ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "title": "Chemicals, flammable substances and waste",
     "workOperational": [
@@ -256,6 +294,15 @@
   }
                         ]
   },
+
+
+
+
+
+
+
+
+
   {
   "title": "Cleaning",
   "workOperational":[
@@ -268,6 +315,21 @@
                     ]
 
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    {
   "title": "Lifting operations (no hoist)",
   "workOperational":[
@@ -293,6 +355,17 @@
   }
                     ]
   },
+
+
+
+
+
+
+
+
+
+
+
    {
   "title": "Work close to 3rd party",
   "workOperational":[
@@ -315,6 +388,18 @@
   }
                   ]
   },
+
+
+
+
+
+
+
+
+
+
+
+
   {
   "title": "Use of vehicles",
   "workOperational":[
@@ -357,6 +442,11 @@
 
 
 
+
+
+
+
+
   {
   "title": "Storage/workshops",
   "workOperational":[
@@ -389,6 +479,12 @@
 
 
 
+
+
+
+
+
+
    {
   "title": "Tree felling",
   "workOperational":[
@@ -401,6 +497,9 @@
   }
                     ]
   },
+
+
+
 
 
 
@@ -428,6 +527,12 @@
 
 
 
+
+
+
+
+
+
    {
   "title": "Demolition work",
   "workOperational":[
@@ -448,15 +553,15 @@
     "incident": [
                 {"title": "Clamping/pinching, falls"}
                 ]
-  },
-  {
-    "title": "Demolition of lines/changes in forces in poles. ",
-    "incident": [
-                {"title": "Clamping/pinching, falls"}
-                ]
   }
                     ]
   },
+
+
+
+
+
+
 
 
 
@@ -493,6 +598,8 @@
   }
                     ]
   },
+
+
 
 
 
@@ -566,6 +673,8 @@
 
 
 
+
+
    {
   "title": "General (could be relevant for all work types)",
   "workOperational":[
@@ -595,6 +704,11 @@
   }
                     ]
   },
+
+
+
+
+
 
 
 

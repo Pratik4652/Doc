@@ -68,10 +68,10 @@
 		"Noteinfo": "Nämä ennalta määritetyt työtyyppien, työtapojen ja mahdollisten tapahtumien luettelot olisi vahvistettava ja niistä olisi sovittava 			    työpaja. luettelon pitäisi sisältää kaikki luokat, jotka ovat ladatun tiedostokohteen ja näiden luetteloiden välillä, lataus ei onnistu ja 			    järjestelmänvalvojan on ratkaistava ongelma ennen laskentataulukon lähettämistä uudelleen.",
 		"RiskMatrix": "Riski-matriisi",
 		"IncreasingSeverity": "Lisääntyvä vakavuus",
-		"RedColorNote": "Ei hyväksyttävää - tehtävää ei voida tehdä ilman lisätoimia.",
-		"OrangeColorNote": "ALARP - Useita toimenpiteitä on otettava huomioon ennen tehtävän suorittamista. Pitäisi tarkastella mahdollisuutta 			           maailmanlaajuisiin'toimenpiteisiin.",
-		"YellowColorNote": "Suojeltava - Tehtävä voidaan suorittaa, mutta siinä on otettava huomioon useita toimenpiteitä riskin vähentämiseksi edelleen.",
-		"GreenColorNote": "Hyväksyttävä - ei tarvita lisätoimia."
+		"RedColorNote": "Ei hyväksyttävä - tehtävää ei ole mahdollista suorittaa ilman lisätoimia.",
+		"OrangeColorNote": "Lisätoimia on harkittava ennen tehtävän suorittamista. Mahdollisia "globaaleja" toimia pitää tarkastella.",
+		"YellowColorNote": "Kohtalainen - tehtävä voidaan suorittaa, riskin pienentämiseksi on harkittava mahdollisia paikallisia toimia.",
+		"GreenColorNote": "Hyväksyttävä - lisätoimia ei tarvita."
 	},
 	"WorkType": {
 		"MainTxt": "DBA-asetukset - Työtyyppi",

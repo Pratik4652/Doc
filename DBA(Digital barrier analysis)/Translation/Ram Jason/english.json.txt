@@ -77,10 +77,10 @@
 		"Dangerous": "Dangerous",
 		"Critical": "Critical",
 		"Catastrophi": "Catastrophi",
-		"RedColorNote": "Not acceptable - the task can not be done without further action.",
-		"OrangeColorNote": "ALARP - Several measures must be considered before completing the task. Should look at the possibility of “global” measures.",
-		"YellowColorNote": "Tolerable - The task can be completed, but should consider several measures to further reduce the risk.",
-		"GreenColorNote": "Acceptable - No need for further action."
+		"RedColorNote": "Not acceptable -  Task can not be carried out without further actions.",
+		"OrangeColorNote": "ALARP - More actions have to be considered before carrying out the task. Should look at potential "global" actions.",
+		"YellowColorNote": "Tolerable - Task can be performed, but should look at potential local actions to reduce risk further.",
+		"GreenColorNote": "Acceptable - No need for further actions."
 	},
 	"WorkType": {
 		"MainTxt": "DBA Settings - Work Type",

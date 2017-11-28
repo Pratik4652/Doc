@@ -68,10 +68,10 @@
 		"NoteInfo": "Dessa fördefinierade listor för arbetstyp, arbetsdrift och potentiell incident bör fastställas och avtalas i verkstaden. listan ska innehålla alla kategorier mellan det uppladdade arbetshjulet och dessa listor kommer uppladdningen inte att lyckas och administratören måste lösa problemet innan du laddar upp kalkylbladet igen.",
 		"RiskMatrix": "Riskmatris",
 		"IncreasingSeverity": "Ökande allvar",
-		"RedColorNote": "Ej acceptabelt - uppgiften kan inte göras utan ytterligare åtgärder.",
-		"OrangeColorNote": "ALARP - Flera åtgärder måste övervägas innan du fullgör uppgiften. Ska se på möjligheten till globala åtgärder.",
-		"YellowColorNote": "Tolerabel - Uppgiften kan slutföras, men bör överväga flera åtgärder för att ytterligare minska risken.",
-		"GreenColorNote": "Acceptabelt - Inget behov av ytterligare åtgärder."
+		"RedColorNote": "Ej acceptabel - uppgiften kan inte utföras utan ytterligare åtgärd.",
+		"OrangeColorNote": "'Så låg som är praktiskt möjligt - Flera åtgärder måste betraktas innan man genomför uppgiften. Bör se på möjligheten för "globala" åtgärder som kan införas för hela Infratek.",
+		"YellowColorNote": "Tolererbar/Skaplig - uppgiften kan genomföras, men flera lokala åtgärder bör beaktas för att ytterligare reducera risken. ",
+		"GreenColorNote": "Acceptabel - inget behov för ytterligare åtgärd. "
 	},
 	"WorkType": {
 		"MainTxt": "DBA Inställningar - Arbetstyp",

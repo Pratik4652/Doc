@@ -1,0 +1,777 @@
+[
+  {
+    "title": "Höghöjdsarbeten",
+    "workOperational": [
+  {
+    "title": "Arbete i lift/korg",
+    "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande objekt"}
+                ]
+  },
+  {
+  "title": "Arbete på bygnadsställning ",
+  "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande objekt"}
+              ]
+  },
+  {
+  "title": "Arbete på stege",
+  "incident": [
+                {"title": "Fallskada"},
+                {"title": "Fallande objekt"}
+              ]
+  },
+  {
+  "title":"Klättring i alla typer av stolpar/master",
+  "incident":[
+                {"title": "Fallskada"},
+                {"title": "Fallande objekt"}
+             ]
+  },
+  {
+  "title":"Arbete på tak",
+  "incident":[
+                {"title": "Fallskada"},
+                {"title": "Fallande objekt"}
+             ]
+
+  }                      
+  
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Anläggningsarbete",
+    "workOperational": [
+  {
+    "title": "Arbete i kabelgrav",
+    "incident": [
+                {"title": "Fallande objekt"},
+                {"title": "Klämskada"},
+                {"title": "Fallskada"},
+                {"title": "Massa/mur/stenar etc. rasar"}
+                ]
+  },
+  {
+  "title": "Formningsarbete",
+  "incident": [
+                {"title": "Kläm- och skärskada"}
+              ]
+  },
+  {
+  "title": "Håltagning",
+  "incident": [
+                {"title": "Strömgenomgång eller kortslutning"},
+                {"title": "Kläm- och skärskada"}
+              ]
+  },
+  {
+  "title":"Murarbete",
+  "incident":[
+                {"title": "Frätskada"}                
+             ]
+  },
+  {
+  "title":"Bilning",
+  "incident":[
+                {"title": "Strömgenomgång eller kortslutning"},
+                {"title": "Buller och vibrationsskador"},
+                {"title": "Ögonskada"}
+             ]
+
+  },
+  {
+  "title":"Användning av anläggningsmaskiner, inkl. grävmaskiner och andra tunga maskiner.",
+  "incident":[
+      
+                {"title": "Klämskada"},
+                {"title": "Kollision/blir påkörd"},
+                {"title": "Arbetsfordon välter"},
+                {"title": "Följdskador pga grävarbete, tex tredjeperson"}
+             ]
+
+  },
+    {
+  "title":"Spränging",
+  "incident":[
+                {"title": "Personkada /materialskada"}
+             ]
+
+  },
+  {
+  "title":"Schakning nära kablar/installationer i mark",
+  "incident":[
+      
+                {"title": "Strömgenomgång eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Gräva för hand nära kablar/installationer i mark",
+  "incident":[
+      
+                {"title": "Strömgenomgång eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Tipping av massa",
+  "incident":[
+      
+                {"title": "Tippad massa/material över personer eller material/utrustning"}
+             ]
+
+  },
+  {
+  "title":"Användning av kompressor och annan utrustning med tryckluft",
+  "incident":[
+      
+                {"title": "Slagskador, ögonskador, etc. pga avbrott på slangar el dyl."}
+             ]
+
+  },
+  {
+  "title":"Användning av hydraulisk utrustning",
+  "incident":[
+                {"title": "Brott på hydraulikslangar etc."}
+             ]
+
+  }, 
+  {
+  "title":"Plöjning",
+  "incident":[
+      
+                {"title": "Klämskada"},
+                {"title": "Strömgenomgång eller kortslutning"}
+             ]
+
+  }
+
+                       ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Kabelarbete",
+    "workOperational": [
+  {
+    "title": "Skarvning av kablar",
+    "incident": [
+                {"title": "Skärkada, brännskada, klämskada"}
+                ]
+  },
+  {
+  "title": "Kabeldragning",
+  "incident": [
+                {"title": "Kläm- eller slagskada"}
+              ]
+  },
+  {
+  "title": "Indragning av kabel till driftrum/kabelskåp",
+  "incident": [
+                {"title": "Strömgenomgång/ kortslutning"}
+              ]
+  },
+  {
+  "title":"Lekagesök av oljekabel",
+  "incident":[
+                {"title": "Köldskador, frätskador, etc"}
+             ]
+  },
+  {
+  "title":"Ta oljeprov på oljekabel/ transformator för analys ",
+  "incident":[
+                {"title": "Oljespill på kläder och hud"},
+                {"title": "Oljespill till miljön"}
+             ]
+
+  },
+  {
+  "title":"Klippa av kabel",
+  "incident":[
+                {"title": "Strömgenomgång eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Lagring av kabeltrumma",
+  "incident":[
+                {"title": "Trumma rullar iväg"}
+             ]
+
+  }                          
+  
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Kemikalier, brännbara ämnen och avfall",
+    "workOperational": [
+  {
+    "title": "Hantering av brandfarliga, hälsoskadliga, frätande ämnen",
+    "incident": [
+                {"title": "Brand"}
+                ]
+  },
+  {
+  "title": "Hantering (lagring och transport) av farlig avfall",
+  "incident": [
+                {"title": "Brand, förgiftning, etc."},
+                {"title": "Utsläpp till miljö"}
+              ]
+  },
+  {
+  "title": "Hantering av kemikalier och SF6-gas",
+  "incident": [
+                {"title": "Frätskada, ögonskada, brännskada, förgiftning, O2-brist"},
+                {"title": "Utsläpp till miljö"}
+              ]
+  },
+  {
+  "title":"Hantering av oljor, och arbete med oljefylld utrustning",
+  "incident":[
+                {"title": "Oljespill på hud, inanding av olja, brand"},
+                {"title": "Utsläpp till miljö"}
+             ]
+  },
+  {
+  "title":"Hantering av blymaterial",
+  "incident":[
+                {"title": "Blyförgiftning"}
+             ]
+
+  },
+  {
+  "title":"Arbete med stolpar som är blöta av kreosot",
+  "incident":[
+                {"title": "Allergi, eksem eller annan skada på hud. Cancerframkallande."},
+                {"title": "Utsläpp till miljö"}
+             ]
+
+  },
+  {
+  "title":"Arbete med PCB-smittad olja, eller i mark med misstanke om PCB-förorening",
+  "incident":[
+                {"title": "Utsläpp till miljö"}
+             ]
+
+  }
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+  {
+  "title": "Städning/rengörning",
+  "workOperational":[
+  {
+    "title": "Rengöring av nätstationser, transformatorer, avlopp, m.m.",
+    "incident": [
+                {"title": "Fallskada, skärskada (även kanyler), klämskada"}
+                ]
+  }
+                    ]
+
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Lyftoperationer (ej personlyft)",
+  "workOperational":[
+  {
+    "title": "Lyftoperationer med kranbil, grävmaskin, truck, traverskran",
+    "incident": [
+                {"title": "Fallande objekt"},
+                {"title": "Klämskada"}
+                ]
+  },
+   {
+    "title": "Lyft med helikopter",
+    "incident": [
+                {"title": "Fallande objekt"},
+                {"title": "Klämskada"}
+                ]
+  },
+  {
+    "title": "Manuella lyft, användning av verktyg som kan klämma, m.m.",
+    "incident": [
+                {"title": "Klämskador etc."}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Arbete nära 3e part",
+  "workOperational":[
+  {
+    "title": "Alt arbete nära tredjeperson",
+    "incident": [
+                {"title": "Skada på tredjeperson"},
+                {"title": "Skada på vår personal förorsakad av tredjeperson"}
+                ]
+  },
+
+
+
+
+  
+  {
+  "title": "Arbete på/nära väg",
+  "workOperational":[
+  {
+    "title": "Alt arbete på eller vid väg",
+    "incident": [
+                {"title": "Påkörning"},
+                {"title": "Skador på tredjeperson"}
+                ]
+  }
+                  ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+  "title": "Användning av fordon",
+  "workOperational":[
+  {
+    "title": "Bilkörning",
+    "incident": [
+                {"title": "Kollision"},
+                {"title": "Osäkrad last"}
+                ]
+  },
+  {
+    "title": "Hantering av släpvagn /användning av handkraft/manuell hantering",
+    "incident": [
+                {"title": "Klämskada"}
+                ]
+  },
+  {
+    "title": "Användning av ATV, snöskoter",
+    "incident": [
+                {"title": "Vält, kollision med påföljande klämskada eller frakturskada"},
+                {"title": "Påkörning"},
+                {"title": "Motorstopp i avlägset område"}
+                ]
+  },
+  {
+    "title": "Användning av bil eller arbetsfordon",
+    "incident": [
+                {"title": "Läckage av batterisyra"}
+                ]
+  },
+  {
+    "title": "Använding av båt",
+    "incident": [
+                {"title": "Vältning/tappa last eller kollision"}
+                ]
+  }
+                    ]
+    },
+
+
+
+
+
+
+
+
+
+  {
+  "title": "Lager/verkstad",
+  "workOperational":[
+  {
+    "title": "Lagring på höjden",
+    "incident": [
+                {"title": "Fallande objekt"}
+                ]
+  },
+  {
+    "title": "Användning av pallyft",
+    "incident": [
+                {"title": "Klämskada"}
+                ]
+  },
+  {
+    "title": "Användning av truck och travers",
+    "incident": [
+                {"title": "Klämskada, fallskada"}
+                ]
+  },
+  {
+    "title": "Användning av farlig utrustning/verktyg",
+    "incident": [
+                {"title": "Klämskada, skärskada, ögonskada, slagskada, brännskada"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Trädfällning",
+  "workOperational":[
+  {
+    "title": "Arbete med/nära trädfällning",
+    "incident": [
+                {"title": "Slag- eller klämskada från träd eller linje i spänn"},
+                {"title": "Skärskador"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+   {
+  "title": "Mekanisk arbete",
+  "workOperational":[
+  {
+    "title": "Demontering av låsmekanismer",
+    "incident": [
+                {"title": "Skärskador"}
+                ]
+  },
+  {
+    "title": "Montering av luckor, plattformar m.m",
+    "incident": [
+                {"title": "Klämskada, fallskada, skärskada"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Rivingsarbete",
+  "workOperational":[
+  {
+    "title": "Riving av bärende konstruktioner",
+    "incident": [
+                {"title": "Klämskador, fallskador, fallande objekt"}
+                ]
+  },
+  {
+    "title": "Riving eller ingrep i material med hälsofarliga ämnen",
+    "incident": [
+                {"title": "Exponering av hälsoskadaliga ämnen (t.ex. asbest)"}
+                ]
+  },
+  {
+    "title": "Rasering av luftlinje/ ändring av krafter i master.",
+    "incident": [
+                {"title": "Klämskada, slagskada, fallskada"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Användning av verktyg",
+  "workOperational":[
+  {
+    "title": "Hantering av vassa verktyg (handverktyg)",
+    "incident": [
+                {"title": "Skärskada, ögonskada"}
+                ]
+  },
+  {
+    "title": "Användning av slagverktyg, handverktyg, markvibrator m.m.",
+    "incident": [
+                {"title": "Slagskada, ögonskada, etc. pga avbrott på slangar el dyl."}
+                ]
+  },
+  {
+    "title": "Användning av slagverktyg, handverktyg, markvibrator m.m",
+    "incident": [
+                {"title": "Vibrationsskada"}
+                ]
+  },
+  {
+    "title": "Heta arbeten",
+    "incident": [
+                {"title": "Brand, brännskada"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Platsspecifika risker",
+  "workOperational":[
+  {
+    "title": "Arbete över/nära vatten",
+    "incident": [
+                {"title": "Drunkning"}
+                ]
+  },
+  {
+    "title": "Arbete i kulvert / trånga utrymmen / bakom luckor / inne i tunnel",
+    "incident": [
+                {"title": "Förgiftning, syrebrist"}
+                ]
+  },
+  {
+    "title": "Arbete på loft, källare, övriga privata fastigheter",
+    "incident": [
+                {"title": "Fall i trappa, ramla igenom golv, skallskada, fallskada."}
+                ]
+  },
+  {
+    "title": "Arbete i rum med automatisk brandsläckningsutrustning",
+    "incident": [
+                {"title": "Kvävning, syrebrist"}
+                ]
+  },
+  {
+    "title": "Arbete på halt underlag",
+    "incident": [
+                {"title": "Fallskada, sträckning"}
+                ]
+  },
+  {
+    "title": "Arbete i ogästvänlig miljö",
+    "incident": [
+                {"title": "Våld, hot om våld, trakasserier"}
+                ]
+  },
+  {
+    "title": "Ogräsbekämpning",
+    "incident": [
+                {"title": "Skada på miljö pga felaktig bekämpning"}
+                ]
+  },
+  {
+    "title": "Arbete i mörker",
+    "incident": [
+                {"title": "Fallskada mm"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Generellt (kan förekomma i alla arbeten)",
+  "workOperational":[
+  {
+    "title": "Alla arbetesmoment",
+    "incident": [
+                {"title": "Ergonomiska konsekvenser/ slitageskada"}
+                ]
+  },
+  {
+    "title": "Arbete som kan skada ögonen.",
+    "incident": [
+                {"title": "Ögonskada"}
+                ]
+  },
+  {
+    "title": "Arbete i bullrig miljö",
+    "incident": [
+                {"title": "Hörselskada, skrämda djur"}
+                ]
+  },
+  {
+    "title": "Arbeten med elektriska apparater, användning av brandfarligt material, m.m.",
+    "incident": [
+                {"title": "Brandrisk, brännskada"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Arbete med/nära spänning",
+  "workOperational":[
+  {
+    "title": "Arb. på urkopplad anläggning där spänning kan uppstå från annan källa",
+    "incident": [
+                {"title": "Strömgenomgång, kortslutning eller ljusbåge"}
+                ]
+  },
+  {
+    "title": "AMS-arbete, lågspänning",
+    "incident": [
+                {"title": "Strömgenomgång, kortslutning, ljusbåge eller brand"}
+                ]
+  },
+  {
+    "title": "AMS-arbete, högspänning",
+    "incident": [
+                {"title": "Strömgenomgång, kortslutning, ljusbåge eller brand"}
+                ]
+  },
+  {
+    "title": "Inkoppling av anläggning",
+    "incident": [
+                {"title": "Strömgenomgång, kortslutning, ljusbåge eller brand"}
+                ]
+  },
+  {
+    "title": "Användning av kabelkanon och kabelsax",
+    "incident": [
+                {"title": "Brännskada från ljusbåge, skärskada, skottskada"}
+                ]
+  },
+  {
+    "title": "Arbete nära högspänningsledningar",
+    "incident": [
+                {"title": "Strömgenomgång eller kortslutning, induktion, åska"}
+                ]
+  },
+  {
+    "title": "Arbete med batteri-paket",
+    "incident": [
+                {"title": "Strömgenomgång eller kortslutning"},
+                {"title": "Explosion eller frätskada till följd av läckage av batterisyra"},
+                {"title": "Utsläpp till miljön"}
+                ]
+  }
+                    ]
+  }
+ 
+
+  
+                    ]
+                  }
+                  ]
+  

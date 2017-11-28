@@ -1,0 +1,771 @@
+[
+  {
+    "title": "Arbeid i hÃ¸yden",
+    "workOperational": [
+  {
+    "title": "Arbeid i lift",
+    "incident": [
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"}
+                ]
+  },
+  {
+  "title": "Arbeid pÃ¥ stillas ",
+  "incident": [
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"}
+              ]
+  },
+  {
+  "title": "Arbeid i stige ",
+  "incident": [
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"}
+              ]
+  },
+  {
+  "title":"Klatring i alle typer master",
+  "incident":[
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"}
+             ]
+  },
+  {
+  "title":"Arbeid pÃ¥ tak",
+  "incident":[
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"}
+             ]
+
+  }                      
+  
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Anleggsarbeid ",
+    "workOperational": [
+  {
+    "title": "Arbeid i grÃ¸ft",
+    "incident": [
+                {"title": "Fallskade"},
+                {"title": "Fallende objekt"},
+                {"title": "Klemskade"},
+                {"title": "Masseutglidning eller mur/vegg som kollapser"}
+                ]
+  },
+  {
+  "title": "Forskalingsarbeid",
+  "incident": [
+                {"title": "Klem- og kuttskade"}
+              ]
+  },
+  {
+  "title": "Kjerneboring",
+  "incident": [
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"},
+                {"title": "Klem- og kuttskade"}
+              ]
+  },
+  {
+  "title":"Murarbeid",
+  "incident":[
+                {"title": "Etsing"}                
+             ]
+  },
+  {
+  "title":"Pigging",
+  "incident":[
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"},
+                {"title": "StÃ¸y og vibrasjonsskader"},
+                {"title": "Ã˜yeskader"}
+             ]
+
+  },
+  {
+  "title":"Bruk av anleggsmaskiner, inkl. gravemaskiner og annet tungt maskineri.",
+  "incident":[
+      
+                {"title": "Klemskade"},
+                {"title": "PÃ¥kjÃ¸rsel"},
+                {"title": "Arbeidsmaskin velter"},
+                {"title": "'FÃ¸lgeskader' som fÃ¸lge av gravearbeider"}
+             ]
+
+  },
+    {
+  "title":"Sprenging",
+  "incident":[
+                {"title": "Skade pÃ¥ personell/materiell"}
+             ]
+
+  },
+  {
+  "title":"Graving med gravemaskin nÃ¦r kabler/installasjoner i grunn",
+  "incident":[
+      
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"HÃ¥ndgraving nÃ¦r kabler/installasjoner i grunn",
+  "incident":[
+      
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Tipping av masse",
+  "incident":[
+      
+                {"title": "Masse over personer eller materiell"}
+             ]
+
+  },
+  {
+  "title":"Bruk av kompressor og annet utstyr komprimert luft",
+  "incident":[
+      
+                {"title": "Slagskader, Ã¸yeskader, hÃ¸rselskader etc. som fÃ¸lge av brudd pÃ¥ slanger e.l."}
+             ]
+
+  },
+  {
+  "title":"Bruk av hydraulisk utstyr",
+  "incident":[
+                {"title": "Brudd pÃ¥ hydraulikkslanger etc."}
+             ]
+
+  }, 
+  {
+  "title":"PlÃ¸ying",
+  "incident":[
+      
+                {"title": "PlÃ¸ying"},
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"}
+             ]
+
+  }
+
+                       ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Kabelarbeid",
+    "workOperational": [
+  {
+    "title": "SSkjøting av kabler",
+    "incident": [
+                {"title": "Kuttskade, brannskade, klemskade"}
+                ]
+  },
+  {
+  "title": "Kabeltrekking",
+  "incident": [
+                {"title": "Klem- eller slagskade"}
+              ]
+  },
+  {
+  "title": "Innføring av kabel til spenningsrom",
+  "incident": [
+                {"title": "StrÃ¸mgjennomgang/ kortslutning"}
+              ]
+  },
+  {
+  "title":"Lekkasjesøk oljekabel",
+  "incident":[
+                {"title": "Fryseskader, Etseskade, etc"}
+             ]
+  },
+  {
+  "title":"OljeprÃ¸ver oljekabel",
+  "incident":[
+                {"title": "OljesÃ¸l pÃ¥ klÃ¦r og kropp"},
+                {"title": "Oljeutslipp til miljÃ¸et"}
+             ]
+
+  },
+  {
+  "title":"Kutting av kabel",
+  "incident":[
+                {"title": "StrÃ¸mgjennomgang eller kortslutning"}
+             ]
+
+  },
+  {
+  "title":"Lagring av kabeltrommel",
+  "incident":[
+                {"title": "Trommel ruller"}
+             ]
+
+  }                          
+  
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "title": "Kjemikalier, brennbare stoffer og avfall",
+    "workOperational": [
+  {
+    "title": "HÃ¥ntering av brannfarlige/eksplosive emner",
+    "incident": [
+                {"title": "Personskade, Brann"}
+                ]
+  },
+  {
+  "title": "HÃ¥ndtering (lagring og transport) av farlig avfall",
+  "incident": [
+                {"title": "Brann, forgiftning, etc."},
+                {"title": "Utslipp til miljÃ¸"}
+              ]
+  },
+  {
+  "title": "HÃ¥ndtering av kjemikalier og SF6-gass",
+  "incident": [
+                {"title": "Etseskade, forgiftning, O2-mangel"},
+                {"title": "Utslipp til miljÃ¸"}
+              ]
+  },
+  {
+  "title":"HÃ¥ndtering av oljer, og arbeid med oljefylt utstyr",
+  "incident":[
+                {"title": "OljesÃ¸l pÃ¥ kropp, innÃ¥nding av oljedamp, brann"},
+                {"title": "Utslipp til miljÃ¸"}
+             ]
+  },
+  {
+  "title":"HÃ¥ndtering av blymateriale",
+  "incident":[
+                {"title": "Blyforgiftning"}
+             ]
+
+  },
+  {
+  "title":"Arbeid med stolper som er blÃ¸te av kreosot",
+  "incident":[
+                {"title": "Allergi, eksem eller annen skade pÃ¥ hud. Kreftfremkallende."},
+                {"title": "Utslipp til miljÃ¸"}
+             ]
+
+  },
+  {
+  "title":"Arbeid med olje med PCB, eller i mark med mistanke om PCB-forurensing",
+  "incident":[
+                {"title": "Utslipp til miljÃ¸"}
+             ]
+
+  }
+                        ]
+  },
+
+
+
+
+
+
+
+
+
+  {
+  "title": "RengjÃ¸ring",
+  "workOperational":[
+  {
+    "title": "RengjÃ¸ring av nettstasjoner, trafoer, sluk, m.m.",
+    "incident": [
+                {"title": "Fallskader, kuttskader (ogsÃ¥ fra sprÃ¸ytespisser), klemskader"}
+                ]
+  }
+                    ]
+
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "LÃ¸fteoperasjoner",
+  "workOperational":[
+  {
+    "title": "LÃ¸fteoperasjoner med kranbil, truck, traverskran",
+    "incident": [
+                {"title": "Fallende objekt"},
+                {"title": "Klemskade"}
+                ]
+  },
+   {
+    "title": "LÃ¸ft med bruk av helikopter",
+    "incident": [
+                {"title": "Fallende objekt"},
+                {"title": "Klemskade"}
+                ]
+  },
+  {
+    "title": "Manuell lÃ¸fting, bruk av verktÃ¸y som kan klemme, m.m.",
+    "incident": [
+                {"title": "Klemskader etc."}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Arbeid nÃ¦r 3. part",
+  "workOperational":[
+  {
+    "title": "Alt arbeid nÃ¦r tredjeperson",
+    "incident": [
+                {"title": "Skade pÃ¥ tredjeperson"},
+                {"title": "Skade pÃ¥ vÃ¥rt personal forÃ¥rsaket av tredjeperson"}
+                ]
+  },
+  {
+  "title": "Arbeid pÃ¥/ved vei",
+  "workOperational":[
+  {
+    "title": "Alt arbeid pÃ¥ eller ved vei",
+    "incident": [
+                {"title": "Pø¥kjørsel"},
+                {"title": "Skader pÃ¥ tredjeperson"}
+                ]
+  }
+                  ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+  "title": "Bruk av kjøretøy",
+  "workOperational":[
+  {
+    "title": "BilkjÃ¸ring",
+    "incident": [
+                {"title": "Kollisjon"},
+                {"title": "Manglende sikring av last"}
+                ]
+  },
+  {
+    "title": "HÃ¥ndtering av tilhenger v/bruk av hÃ¥ndkraft",
+    "incident": [
+                {"title": "Klemskade, muskel/skjelettskade"}
+                ]
+  },
+  {
+    "title": "Bruk av ATV, snøscooter",
+    "incident": [
+                {"title": "Velt, kollisjon med pÃ¥fÃ¸lgende klemskade eller bruddskader"},
+                {"title": "PÃ¥kjørsel"},
+                {"title": "Personell stedfast pga havari"}
+                ]
+  },
+  {
+    "title": "Bruk av bil eller arbeidsmaskin",
+    "incident": [
+                {"title": "Lekkasje av batterisyre"}
+                ]
+  },
+  {
+    "title": "Bruk av bÃ¥t",
+    "incident": [
+                {"title": "Kantring, tap av last, kollisjon, m.m."}
+                ]
+  }
+                    ]
+    },
+
+
+
+
+
+
+
+
+
+  {
+  "title": "Lager/verksted",
+  "workOperational":[
+  {
+    "title": "Lagring i høyden",
+    "incident": [
+                {"title": "Fallende objekter"}
+                ]
+  },
+  {
+    "title": "Bruk av 'snile' (palleflytter)",
+    "incident": [
+                {"title": "Klemskade"}
+                ]
+  },
+  {
+    "title": "Bruk av truck og traverskran",
+    "incident": [
+                {"title": "Klemskade, fallskader"}
+                ]
+  },
+  {
+    "title": "Bruk av farlig utstyr/verktøy",
+    "incident": [
+                {"title": "Klemskader, kuttskader, øyeskader, slagskader, brannskade"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Trefelling",
+  "workOperational":[
+  {
+    "title": "Arbeid med/ved trefelling",
+    "incident": [
+                {"title": "Slag- eller klemskade fra trÃ¦r eller linje i spenn"},
+                {"title": "Kuttskader"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+   {
+  "title": "Mekanisk arbeid",
+  "workOperational":[
+  {
+    "title": "Demontering av lÃ¥semekanisme",
+    "incident": [
+                {"title": "Kuttskader"}
+                ]
+  },
+  {
+    "title": "Montering av luker, plattformer m.m.",
+    "incident": [
+                {"title": "Klemskader, fallskader, kuttskader"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Rivingsarbeid",
+  "workOperational":[
+  {
+    "title": "Riving av bÃ¦rende konstruksjoner ",
+    "incident": [
+                {"title": "Klemskader, fallskader, fallende objekt"}
+                ]
+  },
+  {
+    "title": "Riving eller ingrep i materiale med helsefarlige stoffer",
+    "incident": [
+                {"title": "Eksponering av helseskadelige stoffer (f.eks. asbest)"}
+                ]
+  },
+  {
+    "title": "Riving av linjestrekk / endring av krefter i mast.",
+    "incident": [
+                {"title": "Klemskader, slagskader, fallskader"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Bruk av verktÃ¸y",
+  "workOperational":[
+  {
+    "title": "HÃ¥ndtering av skarpt verktÃ¸y (hÃ¥ndverktÃ¸y)",
+    "incident": [
+                {"title": "Kuttskader,Ã˜yeskader,Slagskader"}
+                ]
+  },
+  {
+    "title": "Bruk av slagverktÃ¸y, m.m.",
+    "incident": [
+                {"title": "Slagskader"}
+                ]
+  },
+  {
+    "title": "Bruk av vibrerende utstyr/verktøy",
+    "incident": [
+                {"title": "Vibrasjonsskader"}
+                ]
+  },
+  {
+    "title": "Varmt arbeid",
+    "incident": [
+                {"title": "Brann"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Stedsspesifikk risiko",
+  "workOperational":[
+  {
+    "title": "Arbeid over/nÃ¦r vann",
+    "incident": [
+                {"title": "Drukning"}
+                ]
+  },
+  {
+    "title": "Arbeid i kulvert / trange rom / kum / tunnel",
+    "incident": [
+                {"title": "Forgiftning, mangel pÃ¥ oksygen"}
+                ]
+  },
+  {
+    "title": "Arbeid pÃ¥ loft, kjellere øvrige private omrÃ¥der",
+    "incident": [
+                {"title": "Fall i trapp, ramle gjennom gulv, skalle hode"}
+                ]
+  },
+  {
+    "title": "Arbeid i rom med automatisk brannslukningsutstyr",
+    "incident": [
+                {"title": "Kvelningsskade"}
+                ]
+  },
+  {
+    "title": "Arbeid pÃ¥ glatt underlag",
+    "incident": [
+                {"title": "Fallskade, strekkskade"}
+                ]
+  },
+  {
+    "title": "Arbeid i uvennlig miljÃ¸",
+    "incident": [
+                {"title": "Vold, trusler, trakassering"}
+                ]
+  },
+  {
+    "title": "Ugressbekjemping",
+    "incident": [
+                {"title": "Skade pÃ¥ miljø pga. feilaktig bekjemping"}
+                ]
+  },
+  {
+    "title": "Arbeid i mørke",
+    "incident": [
+                {"title": "Fallskade mm."}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Generelt (kan forekomme i alle arbeider)",
+  "workOperational":[
+  {
+    "title": "Alle arbeidsoperasjoner",
+    "incident": [
+                {"title": "Ergonomiske konsekvenser/ slitasjeskader"}
+                ]
+  },
+  {
+    "title": "Arbeider som kan medføre sprut eller annet som kan skade øyet.",
+    "incident": [
+                {"title": "Ã˜yeskader"}
+                ]
+  },
+  {
+    "title": "Arbeid i stÃ¸yfylt miljÃ¸",
+    "incident": [
+                {"title": "Hørselskader"}
+                ]
+  },
+  {
+    "title": "Arbeider med elektriske apparater, bruk av brannfarlig materiale, m.m.",
+    "incident": [
+                {"title": "Brann"}
+                ]
+  }
+                    ]
+  },
+
+
+
+
+
+
+
+
+
+
+   {
+  "title": "Arbeid ved/med spenning",
+  "workOperational":[
+  {
+    "title": "Arb. pÃ¥ utkoblet anlegg der spenning kan oppstÃ¥ fra annen kilde",
+    "incident": [
+                {"title": "Strømgjennomgang, kortslutning eller lysbue"}
+                ]
+  },
+  {
+    "title": "AUS arbeid, lavspent",
+    "incident": [
+                {"title": "Strømgjennomgang, kortslutning eller lysbue"}
+                ]
+  },
+  {
+    "title": "AUS arbeid, høyspent",
+    "incident": [
+                {"title": "Strømgjennomgang, kortslutning eller lysbue"}
+                ]
+  },
+  {
+    "title": "Innkobling av anlegg",
+    "incident": [
+                {"title": "Strømgjennomgang eller kortslutning"}
+                ]
+  },
+  {
+    "title": "Bruk av kabelskyter og -kutter",
+    "incident": [
+                {"title": "Brannskade fra lysbue, kuttskade, skuddskade"}
+                ]
+  },
+  {
+    "title": "Arbeid nÃ¦r høyspentledninger",
+    "incident": [
+                {"title": "Strømgjennomgang eller kortslutning, atmosfÃ¦riske utladninger"}
+                ]
+  },
+  {
+    "title": "Arbeid med batteri-banker",
+    "incident": [
+                {"title": "Strømgjennomgang eller kortslutning"},
+                {"title": "Lekkasje av batterisyre eller eksplosjon"},
+                {"title": "Lekkasje av batterisyre til miljø"}
+                ]
+  }
+                    ]
+  }
+ 
+
+  
+                    ]
+                  }
+                  ]

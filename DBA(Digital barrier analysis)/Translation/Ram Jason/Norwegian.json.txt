@@ -69,10 +69,10 @@
     "RiskMatrix": "Risiko Matrix",
     "IncreasingSeverity": "Økende alvorlighetsgrad",    
     "Catastrophi": "Catastrophi",
-    "RedColorNote": "Ikke akseptabelt - oppgaven kan ikke gjøres uten videre tiltak.",
-    "OrangeColorNote": "ALARP - Flere tiltak må vurderes før oppgaven er fullført. Skal se på muligheten for "globale" tiltak.",
-    "YellowColorNote": "Tolerabel - Oppgaven kan fullføres, men bør vurdere flere tiltak for å redusere risikoen ytterligere.",
-    "GreenColorNote": "Akseptabelt - Ikke behov for ytterligere tiltak."    
+    "RedColorNote": "Ikke akseptabel - Oppgaven kan ikke gjennomføres uten ytterligere tiltak.",
+    "OrangeColorNote": "Så lav som praktisk mulig - Flere tiltak må vurderes før gjennomføring av oppgaven. Bør forsøke å finne "globale" tiltak som kan innføres for hele Infratek. ",
+    "YellowColorNote": "Tolerabel - Oppgaven kan gjennomføres, men man bør gjøre lokale tiltak for å redusere risikoen ytterligere. ",
+    "GreenColorNote": "Akseptabel - Ingen behov for ytterligere tiltak. "    
   },
   "WorkType": {
     "MainTxt": "DBA Innstillinger - Arbeidstype",
