@@ -1,0 +1,12 @@
+meeting 8th december:
+1. pdf layout slightely changed.
+2. 
+
+
+
+
+
+
+1. Deployment doc ... specify url .. exact command to deploy...
+2. Security... Accessability.
+3. 
