@@ -1,24 +1,28 @@
 Local:
-org admin  	: qa@ekbana.com/Nepal@9090
-			: pratikt@ekbana.com/Pratik@100
-			: rikee@ekbana.com/Rikee100@
-			: harris@ekbana.com/H@rris100
-			: ram@ekbana.com/Ram@1000
+org admin  
+qaorg@ekbana.com/Ekbana@9090			
+rikee@ekbana.com/Rikee100@
+sumanr@ekbana.com/Suman@100
+			
 
- general 	: rikee14@gmail.com/Rikee@100
-         	: arya@ekbana.com/Arya@100
-		 	: sansa@ekbana.com/Sansa@100
-	 		: ramsey@ekbana.com/Ramsey@100
-	 		: rob@ekbana.com/Rob@1000
+ general:
+ pratikt@ekbana.com/Pratik@100
+ harris@ekbana.com/H@rris100
+ ram@ekbana.com/Ekbana@100
+ amish@ekbana.com/Amish@100
+ ganesh@ekbana.com/Ganesh@100
+
+
 
 Live:
-Org admin: pratikt@ekbana.com/Pratik@100	
-	 : suman@ekbana.com/
-	 : qaorg@ekbana.com/Ekbana@9090
+Org admin: 
+ rikee@ekbana.com/Rikee@100
+ qaorg@ekana.com/Ekbana@9090
 	
-General : qageneral@ekbana.com/Ekbana@9090
-	: rikee@gmail.com/Rikee100@
-	: ram@ekbana.com/Ram@1000
+General : 
+general1@ekbana.com /Ekbana@9090   Amish
+general2@ekbana.com /Ekbana@9090   Harris 
+general3@ekbana.com /Ekbana@9090   Pratik
 
 
 local setup
