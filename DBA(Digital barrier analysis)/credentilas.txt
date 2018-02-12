@@ -26,7 +26,7 @@ general3@ekbana.com /Ekbana@9090   Pratik
 
 
 local setup
-java -jar swagger-codegen-cli-2.2.3.jar  generate -i dba/swagger.yaml -l typescript-angular2 -o dba/src/app/rest
+java -jar swagger-codegen-cli-2.3.1.jar  generate -i dba/swagger.yaml -l typescript-angular -o dba/src/app/rest
 
 yarn
 
