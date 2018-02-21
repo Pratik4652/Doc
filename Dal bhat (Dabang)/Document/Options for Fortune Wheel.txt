@@ -1,0 +1,9 @@
+Options for Fortune Wheel 
+- Platinum Ticket
+- Gold Ticket
+- Silver Ticket
+- Bronze Ticket
+- Rs 200 Discount Coupon
+- Rs 150 Discount Coupon
+- Rs 100 Discount Coupon
+- Try Again !!!
