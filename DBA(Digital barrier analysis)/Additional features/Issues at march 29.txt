@@ -1,0 +1,12 @@
+SUMMARY DOC
+
+1. The LR logo in summary doc is distorted.
+2. The barrier description field is repeating and "undefined" text is appearing is the field is blank.
+3. Static table at the end missing in summary doc.
+4. Summary button should be disabled unless there is response in API.
+
+save as pdf field:
+5. The work type and work operation should not appear as all when the all option is selected in wt and wo field.
+
+6. Time out issue in save as pdf.
+
