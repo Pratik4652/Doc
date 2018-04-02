@@ -1,0 +1,14 @@
+issues not solved 
+
+issue 149
+3 font should be 16
+6
+9
+11 table font should be 11
+12 column width cm not as specified
+13 tbd remove - for now
+15 to be checked.
+
+Issue 150
+Text to be risk summary
+
